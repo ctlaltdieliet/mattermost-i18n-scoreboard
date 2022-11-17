@@ -13,7 +13,7 @@ import (
 var translators []translator
 var weblateusers []generalUserData
 var url string = "https://translate.mattermost.com/api/users/"
-var weblateToken string = "jn8fCVl8oSRZ9mei7iUopftK4g3s2uZAIccL66PC"
+var weblateToken string = ""
 
 type translator struct {
 	FullName   string
