@@ -144,10 +144,17 @@ func createPage(title string, page string, Sort string, fromDate string, tillDat
 			output = output + fmt.Sprintf("|%s|%s|%d|%s|\n", translator.Username, translator.FullName, translator.Translated, translator.DateJoined[0:10])
 		}
 	}
-	var file string = fmt.Sprint("/home/tomdemoor/mattermost/i18n/scripts/mattermost-i18n-scoreboard/pages/%s", page)
+	//ALAN, WHY DOES THIS NOT WORK => RETURNS
+	//./pages/%sweekly_top_contributors.md
+	//./pages/%scurrent_month_top_contributors.md
+
+	//var file string = fmt.Sprint("/home/tomdemoor/mattermost/i18n/scripts/mattermost-i18n-scoreboard/pages/%s", page)
+
+	var file string = "/home/tomdemoor/mattermost/i18n/scripts/mattermost-i18n-scoreboard/pages/" + page
+
 	os.WriteFile(file, []byte(output), 0644)
 	now := carbon.Now()
-	var archivefile string = fmt.Sprint("/home/tomdemoor/mattermost/i18n/scripts/mattermost-i18n-scoreboard/archive/%s (%s)", page, now.ToDateString())
+	var archivefile string = fmt.Sprint("/home/tomdemoor/mattermost/i18n/scripts/mattermost-i18n-scoreboard/archive/" + page + " - " + now.ToDateString())
 	os.WriteFile(archivefile, []byte(output), 0644)
 
 }
@@ -156,10 +163,14 @@ func main() {
 
 	now := carbon.Now()
 	//now = carbon.CreateFromDate(2022, 1, 1)
+	StartOfCurrentWeek := now.StartOfWeek()
+	StartOfCurrentMonth := now.StartOfMonth()
+
+	createPage("Top 10 Contributors Week Till Today", "weekly_top_contributors_till_today.md", "Translated", StartOfCurrentWeek.ToDateString(), now.ToDateString(), 10, true)
+	createPage("Top 10 Contributors From Beginning Month Till Today", "monthly_top_contributors_till_today.md", "Translated", StartOfCurrentMonth.ToDateString(), now.ToDateString(), 10, true)
+
 	if now.DayOfWeek() == 7 {
 		//IT'S SUNDAY, CREATE WEEKLY STATS
-		StartOfCurrentWeek := now.StartOfWeek()
-		StartOfCurrentMonth := now.StartOfMonth()
 
 		createPage("Top 10 Contributors Current Week", "weekly_top_contributors.md", "Translated", StartOfCurrentWeek.ToDateString(), now.ToDateString(), 10, true)
 		createPage("Top 10 Contributors From Beginning Month Till Today", "current_month_top_contributors.md", "Translated", StartOfCurrentMonth.ToDateString(), now.ToDateString(), 10, true)
