@@ -8,18 +8,9 @@ import (
 	"os"
 	"sort"
 	"time"
-)
 
-type translator struct {
-	FullName   string
-	Username   string
-	DateJoined string
-	Translated int
-	Suggested  int
-	Commented  int
-	Total      int
-	Languages  int
-}
+	"github.com/golang-module/carbon/v2"
+)
 
 const (
 	layout = "2006-01-02"
@@ -88,7 +79,10 @@ func createStats(fromdate string, tilldate string) []translator {
 }
 
 func createPage(title string, page string, Sort string, fromDate string, tillDate string, limit int, descending bool) {
-	var output string = "## title ##\n"
+	var output string = "## " + title + " ##\n"
+	if limit == 0 {
+		limit = 1000000
+	}
 	var translators []translator = createStats(fromDate, tillDate)
 	sort.Slice(translators, func(i, j int) bool {
 		switch {
@@ -139,22 +133,50 @@ func createPage(title string, page string, Sort string, fromDate string, tillDat
 			output = output + fmt.Sprintf("|%s|%s|%d|%s|\n", translator.Username, translator.FullName, translator.Translated, translator.DateJoined[0:10])
 		}
 	}
-	var file string = "/home/tomdemoor/mattermost/i18n/scripts/mattermost-i18n-scoreboard/pages/" + page
+	var file string = fmt.Sprint("/home/tomdemoor/mattermost/i18n/scripts/mattermost-i18n-scoreboard/pages/%s", page)
 	os.WriteFile(file, []byte(output), 0644)
+	now := carbon.Now()
+	var archivefile string = fmt.Sprint("/home/tomdemoor/mattermost/i18n/scripts/mattermost-i18n-scoreboard/archive/%s (%s)", page, now.ToDateString())
+	os.WriteFile(archivefile, []byte(output), 0644)
 
 }
 
 func main() {
-	var today time.Time = time.Now()
-	var currentMonth string = fmt.Sprintf("%d", today.Month())
-	var currentDay string = fmt.Sprintf("%d", today.Day())
-	var currentYear string = fmt.Sprintf("%d", today.Year())
-	var todayString = fmt.Sprintf("%s-%s-%s", currentYear, currentMonth, currentDay)
-	//var startCurrentMonth string = fmt.Sprintf("%s-%s-01", currentYear, currentMonth)
-	//var startPreviousMonth string = fmt.Sprintf("%s-%s-01", currentYear, currentMonth-1)
-	//var EndCurrentMonth string = fmt.Sprintf("%s-%s-01", currentYear, currentMonth)
-	//fmt.Println
+	//FETCHING ALL USERS FROM WEBLATE AND STORING THEM IN weblateusers
+	var weblateusers []generalUserData = fetchAllUsers("https://translate.mattermost.com/api/users/")
 
-	createPage("Top 10 contributors this week", "weekly.md", "Translations", "2022-11-01", todayString, 10, true)
-	createPage("Translators sorted by date joined", "new_translators.md", "Translations", "2022-11-01", todayString, 0, true)
+	// FETCHING STAT FOR EACH USER AND STORING ALL USERS AND DATA in translators
+	var translators []translator = fetchTranslationsByUser(weblateusers)
+
+	//WRITING STATS TO JSON-FILE
+	writeToFile(translators)
+
+	now := carbon.Now()
+	//now = carbon.CreateFromDate(2022, 1, 1)
+	if now.DayOfWeek() == 7 {
+		//IT'S SUNDAY, CREATE WEEKLY STATS
+		StartOfCurrentWeek := now.StartOfWeek()
+		StartOfCurrentMonth := now.StartOfMonth()
+
+		createPage("Top 10 Contributors Current Week", "weekly_top_contributors.md", "Translated", StartOfCurrentWeek.ToDateString(), now.ToDateString(), 10, true)
+		createPage("Top 10 Contributors From Beginning Month Till Today", "current_month_top_contributors.md", "Translated", StartOfCurrentMonth.ToDateString(), now.ToDateString(), 10, true)
+
+	}
+	if now.DayOfMonth() == 1 {
+		EndOfPrevMonth := now.StartOfMonth().Yesterday()
+		StartOfPrevMonth := EndOfPrevMonth.StartOfMonth()
+		createPage("Top 10 Contributors Previous Month", "previous_month_top_contributors.md", "Translated", StartOfPrevMonth.ToDateString(), EndOfPrevMonth.ToDateString(), 10, true)
+		createPage("Translators By Date Joined", "translators_by_date_joined.md", "DateJoined", StartOfPrevMonth.ToDateString(), EndOfPrevMonth.ToDateString(), 0, true)
+		if now.MonthOfYear() == 1 || now.MonthOfYear() == 4 || now.MonthOfYear() == 8 || now.MonthOfYear() == 10 {
+			EndOfPrevQuarter := now.StartOfQuarter().Yesterday()
+			StartOfPrevQuarter := EndOfPrevQuarter.StartOfQuarter()
+			createPage("Top  Contributors Previous Quarter", "previous_quarter_top_contributors.md", "Translated", StartOfPrevQuarter.ToDateString(), EndOfPrevQuarter.ToDateString(), 0, true)
+		}
+		if now.MonthOfYear() == 1 {
+			EndOfPrevYear := now.StartOfYear().Yesterday()
+			StartOfPrevYear := EndOfPrevYear.StartOfYear()
+			createPage("Top Contributors Previous Year", "previous_year_top_contributors.md", "Translated", StartOfPrevYear.ToDateString(), EndOfPrevYear.ToDateString(), 0, true)
+		}
+	}
+
 }
