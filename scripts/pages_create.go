@@ -12,6 +12,17 @@ import (
 	"github.com/golang-module/carbon/v2"
 )
 
+type translator struct {
+	FullName   string
+	Username   string
+	DateJoined string
+	Translated int
+	Suggested  int
+	Commented  int
+	Total      int
+	Languages  int
+}
+
 const (
 	layout = "2006-01-02"
 )
@@ -142,14 +153,6 @@ func createPage(title string, page string, Sort string, fromDate string, tillDat
 }
 
 func main() {
-	//FETCHING ALL USERS FROM WEBLATE AND STORING THEM IN weblateusers
-	var weblateusers []generalUserData = fetchAllUsers("https://translate.mattermost.com/api/users/")
-
-	// FETCHING STAT FOR EACH USER AND STORING ALL USERS AND DATA in translators
-	var translators []translator = fetchTranslationsByUser(weblateusers)
-
-	//WRITING STATS TO JSON-FILE
-	writeToFile(translators)
 
 	now := carbon.Now()
 	//now = carbon.CreateFromDate(2022, 1, 1)
