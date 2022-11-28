@@ -92,7 +92,7 @@ func createStats(fromdate string, tilldate string) []translator {
 func createPage(title string, page string, Sort string, fromDate string, tillDate string, limit int, descending bool) {
 	var output string = "## " + title + " ##\n"
 	if limit == 0 {
-		limit = 1000000
+		limit = 2000000
 	}
 	var translators []translator = createStats(fromDate, tillDate)
 	sort.Slice(translators, func(i, j int) bool {
@@ -141,7 +141,7 @@ func createPage(title string, page string, Sort string, fromDate string, tillDat
 
 	for i, translator := range translators {
 		if i < limit {
-			output = output + fmt.Sprintf("|%s|%s|%d|%s|\n", translator.Username, translator.FullName, translator.Translated, translator.DateJoined[0:10])
+			output = output + fmt.Sprintf("|%s|%s|%d|%s|\n", translator.Username, translator.FullName, translator.Translated, translator.DateJoined[0:20])
 		}
 	}
 	//ALAN, WHY DOES THIS NOT WORK => RETURNS
@@ -154,7 +154,7 @@ func createPage(title string, page string, Sort string, fromDate string, tillDat
 
 	os.WriteFile(file, []byte(output), 0644)
 	now := carbon.Now()
-	var archivefile string = fmt.Sprint("/home/tomdemoor/mattermost/i18n/scripts/mattermost-i18n-scoreboard/archive/" + page + " - " + now.ToDateString())
+	var archivefile string = fmt.Sprint("/home/tomdemoor/mattermost/i18n/scripts/mattermost-i18n-scoreboard/archive/" + now.ToDateString() + " - " + page)
 	os.WriteFile(archivefile, []byte(output), 0644)
 
 }
@@ -164,23 +164,23 @@ func main() {
 	now := carbon.Now()
 	StartOfCurrentWeek := now.SetWeekStartsAt(carbon.Monday).StartOfWeek()
 	StartOfCurrentMonth := now.StartOfMonth()
-	createPage("Top 10 Contributors Week Till Today", "weekly_top_contributors_till_today.md", "Translated", StartOfCurrentWeek.ToDateString(), now.ToDateString(), 10, true)
-	createPage("Top 10 Contributors From Beginning Month Till Today", "monthly_top_contributors_till_today.md", "Translated", StartOfCurrentMonth.ToDateString(), now.ToDateString(), 10, true)
+	createPage("Top 20 Contributors Week Till Today", "weekly_top_contributors_till_today.md", "Translated", StartOfCurrentWeek.ToDateString(), now.ToDateString(), 20, true)
+	createPage("Top 20 Contributors From Beginning Month Till Today", "monthly_top_contributors_till_today.md", "Translated", StartOfCurrentMonth.ToDateString(), now.ToDateString(), 20, true)
 
 	if now.DayOfWeek() == 7 {
 		//IT'S SUNDAY, CREATE WEEKLY STATS
-		createPage("Top 10 Contributors Current Week", "weekly_top_contributors.md", "Translated", StartOfCurrentWeek.ToDateString(), now.ToDateString(), 10, true)
-		createPage("Top 10 Contributors From Beginning Month Till Today", "current_month_top_contributors.md", "Translated", StartOfCurrentMonth.ToDateString(), now.ToDateString(), 10, true)
+		createPage("Top 20 Contributors Current Week", "weekly_top_contributors.md", "Translated", StartOfCurrentWeek.ToDateString(), now.ToDateString(), 20, true)
+		createPage("Top 20 Contributors From Beginning Month Till Today", "current_month_top_contributors.md", "Translated", StartOfCurrentMonth.ToDateString(), now.ToDateString(), 20, true)
 	}
 	if now.DayOfMonth() == 1 {
 		// IT'S THE BEGINNING OF THE MONTH, CREATE MONTHLY STATS
 		EndOfPrevMonth := now.StartOfMonth().Yesterday()
 		StartOfPrevMonth := EndOfPrevMonth.StartOfMonth()
-		createPage("Top 10 Contributors Previous Month", "previous_month_top_contributors.md", "Translated", StartOfPrevMonth.ToDateString(), EndOfPrevMonth.ToDateString(), 10, true)
+		createPage("Top 20 Contributors Previous Month", "previous_month_top_contributors.md", "Translated", StartOfPrevMonth.ToDateString(), EndOfPrevMonth.ToDateString(), 20, true)
 		createPage("Contributors YEAR TILL TODAY", "year_till_today_contributors.md", "Translated", now.StartOfYear().ToDateString(), now.ToDateString(), 0, true)
 
 		createPage("Translators By Date Joined", "translators_by_date_joined.md", "DateJoined", StartOfPrevMonth.ToDateString(), EndOfPrevMonth.ToDateString(), 0, true)
-		if now.MonthOfYear() == 1 || now.MonthOfYear() == 4 || now.MonthOfYear() == 8 || now.MonthOfYear() == 10 {
+		if now.MonthOfYear() == 1 || now.MonthOfYear() == 4 || now.MonthOfYear() == 8 || now.MonthOfYear() == 20 {
 			//IT'S THE START OF A NEW QUARTER, CREATE QUARTERLY STATS
 			EndOfPrevQuarter := now.StartOfQuarter().Yesterday()
 			StartOfPrevQuarter := EndOfPrevQuarter.StartOfQuarter()

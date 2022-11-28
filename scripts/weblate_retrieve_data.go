@@ -10,7 +10,7 @@ import (
 	"time"
 )
 
-var weblateToken string = ""
+var weblateToken string = "jn8fCVl8oSRZ9mei7iUopftK4g3s2uZAIccL66PC"
 
 type translator struct {
 	FullName   string
