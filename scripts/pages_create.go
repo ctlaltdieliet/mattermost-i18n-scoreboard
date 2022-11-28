@@ -162,35 +162,35 @@ func createPage(title string, page string, Sort string, fromDate string, tillDat
 func main() {
 
 	now := carbon.Now()
-	//now = carbon.CreateFromDate(2022, 1, 1)
-	StartOfCurrentWeek := now.StartOfWeek()
+	StartOfCurrentWeek := now.SetWeekStartsAt(carbon.Monday).StartOfWeek()
 	StartOfCurrentMonth := now.StartOfMonth()
-
 	createPage("Top 10 Contributors Week Till Today", "weekly_top_contributors_till_today.md", "Translated", StartOfCurrentWeek.ToDateString(), now.ToDateString(), 10, true)
 	createPage("Top 10 Contributors From Beginning Month Till Today", "monthly_top_contributors_till_today.md", "Translated", StartOfCurrentMonth.ToDateString(), now.ToDateString(), 10, true)
 
 	if now.DayOfWeek() == 7 {
 		//IT'S SUNDAY, CREATE WEEKLY STATS
-
 		createPage("Top 10 Contributors Current Week", "weekly_top_contributors.md", "Translated", StartOfCurrentWeek.ToDateString(), now.ToDateString(), 10, true)
 		createPage("Top 10 Contributors From Beginning Month Till Today", "current_month_top_contributors.md", "Translated", StartOfCurrentMonth.ToDateString(), now.ToDateString(), 10, true)
-
 	}
 	if now.DayOfMonth() == 1 {
+		// IT'S THE BEGINNING OF THE MONTH, CREATE MONTHLY STATS
 		EndOfPrevMonth := now.StartOfMonth().Yesterday()
 		StartOfPrevMonth := EndOfPrevMonth.StartOfMonth()
 		createPage("Top 10 Contributors Previous Month", "previous_month_top_contributors.md", "Translated", StartOfPrevMonth.ToDateString(), EndOfPrevMonth.ToDateString(), 10, true)
+		createPage("Contributors YEAR TILL TODAY", "year_till_today_contributors.md", "Translated", now.StartOfYear().ToDateString(), now.ToDateString(), 0, true)
+
 		createPage("Translators By Date Joined", "translators_by_date_joined.md", "DateJoined", StartOfPrevMonth.ToDateString(), EndOfPrevMonth.ToDateString(), 0, true)
 		if now.MonthOfYear() == 1 || now.MonthOfYear() == 4 || now.MonthOfYear() == 8 || now.MonthOfYear() == 10 {
+			//IT'S THE START OF A NEW QUARTER, CREATE QUARTERLY STATS
 			EndOfPrevQuarter := now.StartOfQuarter().Yesterday()
 			StartOfPrevQuarter := EndOfPrevQuarter.StartOfQuarter()
 			createPage("Top  Contributors Previous Quarter", "previous_quarter_top_contributors.md", "Translated", StartOfPrevQuarter.ToDateString(), EndOfPrevQuarter.ToDateString(), 0, true)
 		}
 		if now.MonthOfYear() == 1 {
+			// IT'S JANUARY 1ST, HAPPY NEW YEAR AND CREATE THE YEARLY STATS.
 			EndOfPrevYear := now.StartOfYear().Yesterday()
 			StartOfPrevYear := EndOfPrevYear.StartOfYear()
 			createPage("Top Contributors Previous Year", "previous_year_top_contributors.md", "Translated", StartOfPrevYear.ToDateString(), EndOfPrevYear.ToDateString(), 0, true)
 		}
 	}
-
 }
