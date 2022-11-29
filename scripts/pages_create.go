@@ -160,7 +160,14 @@ func createPage(title string, page string, Sort string, fromDate string, tillDat
 }
 
 func main() {
+	//FETCHING ALL USERS FROM WEBLATE AND STORING THEM IN weblateusers
+	var weblateusers []generalUserData = fetchAllUsers("https://translate.mattermost.com/api/users/")
 
+	// FETCHING STAT FOR EACH USER AND STORING ALL USERS AND DATA in translators
+	var translators []translator = fetchTranslationsByUser(weblateusers)
+
+	//WRITING STATS TO JSON-FILE
+	writeToFile(translators)
 	now := carbon.Now()
 	StartOfCurrentWeek := now.SetWeekStartsAt(carbon.Monday).StartOfWeek()
 	StartOfCurrentMonth := now.StartOfMonth()

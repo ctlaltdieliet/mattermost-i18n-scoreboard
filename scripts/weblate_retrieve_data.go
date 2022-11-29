@@ -12,17 +12,6 @@ import (
 
 var weblateToken string = ""
 
-type translator struct {
-	FullName   string
-	Username   string
-	DateJoined string
-	Translated int
-	Suggested  int
-	Commented  int
-	Total      int
-	Languages  int
-}
-
 type userStatsWeblate struct {
 	Translated int `json:"translated"`
 	Suggested  int `json:"suggested"`
@@ -163,15 +152,4 @@ func writeToFile(translators []translator) {
 	os.MkdirAll(folder, os.ModePerm)
 	os.WriteFile(folder+fmt.Sprint(day)+".json", jsondata, 0644)
 
-}
-
-func main() {
-	//FETCHING ALL USERS FROM WEBLATE AND STORING THEM IN weblateusers
-	var weblateusers []generalUserData = fetchAllUsers("https://translate.mattermost.com/api/users/")
-
-	// FETCHING STAT FOR EACH USER AND STORING ALL USERS AND DATA in translators
-	var translators []translator = fetchTranslationsByUser(weblateusers)
-
-	//WRITING STATS TO JSON-FILE
-	writeToFile(translators)
 }
