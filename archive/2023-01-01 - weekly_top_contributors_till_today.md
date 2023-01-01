@@ -1,4 +1,4 @@
-## Top 20 Contributors Current Week ##
+## Top 20 Contributors Week Till Today ##
 |Username|Fullname|Translated|DateJoined|
 |--------|--------|----------|----------|
 |majo|MArtin Johnson|118|2020-06-19T18:19:45Z|

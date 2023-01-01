@@ -1,23 +1,23 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|
 |--------|--------|----------|----------|
-|potatogim|Ji-Hyeon Gim|490|2020-06-19T18:18:58.|
-|majo|MArtin Johnson|400|2020-06-19T18:19:45Z|
-|ctlaltdieliet|Tom De Moor|385|2020-06-19T16:30:47Z|
-|Eleferen|Konstantin|314|2022-10-13T14:04:24Z|
-|kaakaa|kaakaa|264|2020-06-19T18:20:26Z|
-|matthew-w|Matthew Williams|250|2021-03-01T11:40:28.|
-|master7|master7|247|2020-06-19T18:20:39.|
-|jprusch|jprusch|235|2021-06-28T12:00:18.|
-|kayazeren|Kaya Zeren|181|2020-06-19T07:05:24Z|
-|milotype|Milo Ivir|109|2021-10-30T10:27:42.|
-|Fjoerfoks|Fjoerfoks|80|2022-10-18T07:02:54.|
-|tsabi|Csaba Tóth // BDSC Business Digitalisation Kft.|66|2020-10-03T09:34:39.|
-|NuriInfos_JSK|정성근|63|2022-12-20T06:58:29.|
-|toomore|Toomore Chiang|62|2022-12-09T05:58:20.|
-|ivenkwan|Iven Kwan|44|2022-12-27T12:51:18.|
-|krisfremen|Kristijan "Fremen" Velkovski|35|2020-06-19T18:20:03.|
-|chay|chaylex|32|2022-12-30T11:27:28.|
-|nathanaelhoun|Nathanaël|21|2020-06-19T18:19:44.|
-|sgmadankar|Shubham Madankar|15|2022-12-21T07:41:12.|
-|varghese.jose|Varghese Jose|14|2021-10-16T05:16:05.|
+|anonymous|Anonymous|0|2020-06-10T18:34:14.|
+|elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z|
+|controlaltdieliet|Tom De Moor|0|2020-06-18T18:35:25Z|
+|kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|
+|ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|
+|bjolud|bjolud|0|2020-06-19T18:17:57.|
+|danninov|danninov|0|2020-06-19T18:18:00.|
+|Tornoz|Tornoz|0|2020-06-19T18:18:16.|
+|majdy|majdy|0|2020-06-19T18:18:21.|
+|avasconcelos114|avasconcelos114|0|2020-06-19T18:18:27Z|
+|babu|babu|0|2020-06-19T18:18:37.|
+|gb|gb|0|2020-06-19T18:18:43.|
+|wget|wget|0|2020-06-19T18:18:50Z|
+|Chikei|Chikei|0|2020-06-19T18:18:51Z|
+|cpanato|Carlos Panato|0|2020-06-19T18:18:53Z|
+|thePanz|thePanz|0|2020-06-19T18:18:53Z|
+|jasonblais|jasonblais|0|2020-06-19T18:18:54Z|
+|hhhhugi|hhhhugi|0|2020-06-19T18:18:56.|
+|enahum|Elias  Nahum|0|2020-06-19T18:18:56Z|
+|ruza|ruza|0|2020-06-19T18:18:57.|
