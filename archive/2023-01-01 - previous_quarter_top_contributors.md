@@ -1,57 +1,57 @@
-## Contributors YEAR TILL TODAY ##
+## Top  Contributors Previous Quarter ##
 |Username|Fullname|Translated|DateJoined|
 |--------|--------|----------|----------|
+|Eleferen|Konstantin|858|2022-10-13T14:04:24Z|
+|majo|MArtin Johnson|731|2020-06-19T18:19:45Z|
+|master7|master7|559|2020-06-19T18:20:39.|
+|jprusch|jprusch|494|2021-06-28T12:00:18.|
+|potatogim|Ji-Hyeon Gim|490|2020-06-19T18:18:58.|
+|kayazeren|Kaya Zeren|483|2020-06-19T07:05:24Z|
+|ctlaltdieliet|Tom De Moor|478|2020-06-19T16:30:47Z|
+|kaakaa|kaakaa|464|2020-06-19T18:20:26Z|
+|matthew-w|Matthew Williams|443|2021-03-01T11:40:28.|
+|hereje|Angel Mendez Cano|242|2022-10-18T01:54:03.|
+|milotype|Milo Ivir|173|2021-10-30T10:27:42.|
+|belope|Petr Bělousov|129|2022-11-27T22:26:27.|
+|krisfremen|Kristijan "Fremen" Velkovski|124|2020-06-19T18:20:03.|
+|homerCOD|homerCOD|117|2022-10-29T07:52:53.|
+|CI-YU|CI-YU|98|2022-11-16T02:14:58.|
+|Fjoerfoks|Fjoerfoks|80|2022-10-18T07:02:54.|
+|tsabi|Csaba Tóth // BDSC Business Digitalisation Kft.|66|2020-10-03T09:34:39.|
+|NuriInfos_JSK|정성근|63|2022-12-20T06:58:29.|
+|toomore|Toomore Chiang|62|2022-12-09T05:58:20.|
+|ivenkwan|Iven Kwan|44|2022-12-27T12:51:18.|
+|chay|chaylex|32|2022-12-30T11:27:28.|
+|nathanaelhoun|Nathanaël|21|2020-06-19T18:19:44.|
+|sgmadankar|Shubham Madankar|15|2022-12-21T07:41:12.|
+|varghese.jose|Varghese Jose|14|2021-10-16T05:16:05.|
+|Inutit|Intutit|11|2022-11-17T04:03:47.|
+|amin_913|Amin|10|2022-11-27T06:19:15.|
+|JtheBAB|JtheBAB|8|2021-07-15T16:28:12.|
+|wget|wget|7|2020-06-19T18:18:50Z|
+|satya.vinay|Satya Vinay|6|2022-10-27T08:27:53.|
+|manhdd610|Do Dang Manh|6|2022-11-23T03:56:05.|
+|irdiOL|Irdi|6|2022-12-28T20:27:40.|
+|calebroseland|Caleb Roseland|3|2020-07-23T21:29:21.|
+|m-ripper|Max Ripper|2|2022-11-11T12:14:01.|
+|maruTA-bis5|maruTA-bis5|1|2020-06-19T18:19:04Z|
+|muratbayan|Murat|1|2021-04-06T14:44:00.|
+|dfun90|Danny Funkat|1|2020-09-02T07:51:51.|
+|remyj38|Remy J|1|2022-12-05T09:32:22.|
+|aiden|aiden|1|2022-11-21T05:26:58.|
+|pjenicot|Pierre JENICOT|1|2021-03-19T08:51:04.|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.|
-|elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z|
-|controlaltdieliet|Tom De Moor|0|2020-06-18T18:35:25Z|
-|kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|
-|ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|
-|bjolud|bjolud|0|2020-06-19T18:17:57.|
-|danninov|danninov|0|2020-06-19T18:18:00.|
-|Tornoz|Tornoz|0|2020-06-19T18:18:16.|
-|majdy|majdy|0|2020-06-19T18:18:21.|
-|avasconcelos114|avasconcelos114|0|2020-06-19T18:18:27Z|
-|babu|babu|0|2020-06-19T18:18:37.|
-|gb|gb|0|2020-06-19T18:18:43.|
-|wget|wget|0|2020-06-19T18:18:50Z|
-|Chikei|Chikei|0|2020-06-19T18:18:51Z|
-|cpanato|Carlos Panato|0|2020-06-19T18:18:53Z|
-|thePanz|thePanz|0|2020-06-19T18:18:53Z|
-|jasonblais|jasonblais|0|2020-06-19T18:18:54Z|
-|hhhhugi|hhhhugi|0|2020-06-19T18:18:56.|
-|enahum|Elias  Nahum|0|2020-06-19T18:18:56Z|
-|ruza|ruza|0|2020-06-19T18:18:57.|
-|potatogim|Ji-Hyeon Gim|0|2020-06-19T18:18:58.|
-|anttik|anttik|0|2020-06-19T18:18:58.|
-|Heefe|Heefe|0|2020-06-19T18:18:58.|
-|mlongo|mlongo|0|2020-06-19T18:18:59Z|
-|aeomin|aeomin|0|2020-06-19T18:19:00Z|
-|maruTA-bis5|maruTA-bis5|0|2020-06-19T18:19:04Z|
-|jespino|jespino|0|2020-06-19T18:19:05.|
-|phommasy|phommasy|0|2020-06-19T18:19:09.|
-|dundee|dundee|0|2020-06-19T18:19:11.|
-|joriki|joriki|0|2020-06-19T18:19:13.|
-|radoslavius|radoslavius|0|2020-06-19T18:19:24.|
-|Lyimmi|Lyimmi|0|2020-06-19T18:19:25.|
-|rmatev|rmatev|0|2020-06-19T18:19:36.|
-|jesus.espino|jesus.espino|0|2020-06-19T18:19:38Z|
-|LukasFiniarel|LukasFiniarel|0|2020-06-19T18:19:41.|
-|nicolailang|nicolailang|0|2020-06-19T18:19:42.|
-|kirkjaa|kirkjaa|0|2020-06-19T18:19:42.|
-|saeid.hmdr|Saeid|0|2020-06-19T18:19:44.|
-|nathanaelhoun|Nathanaël|0|2020-06-19T18:19:44.|
-|hopark|Changho Park|0|2020-06-19T18:19:44.|
 |rodrigocorsi|rodrigocorsi|0|2020-06-19T18:19:44Z|
 |iTwalkers|Tantia Putri|0|2020-06-19T18:19:45.|
 |flynbit|Alexey Napalkov|0|2020-06-19T18:19:45Z|
-|majo|MArtin Johnson|0|2020-06-19T18:19:45Z|
+|hopark|Changho Park|0|2020-06-19T18:19:44.|
 |sreekanthgs|sreekanthgs|0|2020-06-19T18:19:54.|
 |zchezgi|zchezgi|0|2020-06-19T18:19:56.|
 |meilon|meilon|0|2020-06-19T18:19:57Z|
 |gruceqq|gruceqq|0|2020-06-19T18:19:58Z|
 |gorn|gorn|0|2020-06-19T18:20:01.|
 |kayron8|kayron8|0|2020-06-19T18:20:01.|
-|krisfremen|Kristijan "Fremen" Velkovski|0|2020-06-19T18:20:03.|
+|saeid.hmdr|Saeid|0|2020-06-19T18:19:44.|
 |jurijk|jurijk|0|2020-06-19T18:20:08.|
 |hectorsky|Daniel Burzmiński|0|2020-06-19T18:20:10Z|
 |gyeben|gyeben|0|2020-06-19T18:20:14.|
@@ -60,13 +60,13 @@
 |Simos|Simos|0|2020-06-19T18:20:18.|
 |niknetniko|niknetniko|0|2020-06-19T18:20:20.|
 |Sharuru|Sharuru|0|2020-06-19T18:20:22.|
-|kaakaa|kaakaa|0|2020-06-19T18:20:26Z|
+|kirkjaa|kirkjaa|0|2020-06-19T18:19:42.|
 |tophuong276|tophuong276|0|2020-06-19T18:20:27.|
 |yohannes|yohannes|0|2020-06-19T18:20:30.|
 |nguyetdo1996|nguyetdo1996|0|2020-06-19T18:20:30.|
 |BaaaZen|BaaaZen|0|2020-06-19T18:20:36Z|
 |b1nar10|b1nar10|0|2020-06-19T18:20:38.|
-|master7|master7|0|2020-06-19T18:20:39.|
+|nicolailang|nicolailang|0|2020-06-19T18:19:42.|
 |metanerd|Elisabeth Kulzer|0|2020-06-20T16:41:13Z|
 |Txeli|Jose Sanchez|0|2020-06-22T12:05:55.|
 |GrSto|Gregory Stock|0|2020-06-23T19:17:52.|
@@ -80,7 +80,7 @@
 |mattermostbot|Mattermost Weblate Notify Bot|0|2020-07-07T09:47:41Z|
 |rvillablanca|Rodrigo Villablanca|0|2020-07-10T13:55:56.|
 |denniskamp|Dennis Kamp|0|2020-07-17T07:40:52.|
-|calebroseland|Caleb Roseland|0|2020-07-23T21:29:21.|
+|LukasFiniarel|LukasFiniarel|0|2020-06-19T18:19:41.|
 |krystufek|Kryštof|0|2020-07-25T13:08:57.|
 |ghasrfakhri|Iman Ghasrfakhri|0|2020-07-27T07:49:41.|
 |chakatz|chakatz|0|2020-07-28T11:50:24.|
@@ -93,7 +93,7 @@
 |vasimi|Michal Vašíček|0|2020-08-14T13:44:21.|
 |abetomo|Tomoaki Abe|0|2020-08-21T03:25:30.|
 |stylianosrigas|Stylianos Rigas|0|2020-08-26T12:38:07Z|
-|dfun90|Danny Funkat|0|2020-09-02T07:51:51.|
+|jesus.espino|jesus.espino|0|2020-06-19T18:19:38Z|
 |retheviper|retheviper|0|2020-09-06T08:09:25.|
 |lanjp|Nal LanPM|0|2020-09-09T08:40:46.|
 |devius|devius|0|2020-09-10T21:35:41.|
@@ -102,7 +102,7 @@
 |phu.phan|Phan Đức Phú|0|2020-09-24T09:00:40.|
 |mozkomor05|David|0|2020-09-25T14:06:34.|
 |fakoor|Ali|0|2020-09-29T10:44:26.|
-|tsabi|Csaba Tóth // BDSC Business Digitalisation Kft.|0|2020-10-03T09:34:39.|
+|rmatev|rmatev|0|2020-06-19T18:19:36.|
 |mbouzada|Miguel A. Bouzada|0|2020-10-05T09:40:52.|
 |spielers|Suraj Patil|0|2020-10-06T13:13:49Z|
 |sakaitsu|Zsolt Godó|0|2020-10-09T13:10:49.|
@@ -144,12 +144,12 @@
 |petrmifek|petrmifek|0|2021-02-24T15:06:35.|
 |ultra1394|KC|0|2021-02-26T01:25:58.|
 |visoft|Matic Pribožič|0|2021-02-26T13:43:48.|
-|matthew-w|Matthew Williams|0|2021-03-01T11:40:28.|
+|Lyimmi|Lyimmi|0|2020-06-19T18:19:25.|
 |kalinuxsam|"><img src=x onerror=alert(document.domain)>|0|2021-03-03T02:25:39Z|
 |helabasa|helabasa|0|2021-03-08T07:19:22.|
 |perceptron8|Michał Sobkiewicz|0|2021-03-15T21:39:19.|
 |ianatha|ianatha|0|2021-03-18T13:44:36.|
-|pjenicot|Pierre JENICOT|0|2021-03-19T08:51:04.|
+|radoslavius|radoslavius|0|2020-06-19T18:19:24.|
 |svelle0295fc940c184df3|Sven Hüster|0|2021-03-19T14:24:41.|
 |CyrilLD|Cyril LD|0|2021-03-19T19:00:08.|
 |toto6038|toto6038|0|2021-03-20T16:13:11.|
@@ -166,7 +166,7 @@
 |putsan|Yuriy Putsan|0|2021-03-27T12:52:54.|
 |fanch317|Fanch|0|2021-03-29T22:36:39.|
 |YJSoft|YJSoft|0|2021-04-06T01:33:51.|
-|muratbayan|Murat|0|2021-04-06T14:44:00.|
+|joriki|joriki|0|2020-06-19T18:19:13.|
 |thebestwj|thebestwj|0|2021-04-09T00:56:31.|
 |gea-ecobricks|GEA Admin|0|2021-04-13T10:09:24.|
 |gbm_admin|Gbm Administrator|0|2021-04-16T08:38:51.|
@@ -200,9 +200,9 @@
 |MusiCode1|MusiCode1|0|2021-06-19T21:04:50.|
 |acaubet|Adrià Tarroja Caubet|0|2021-06-20T02:05:22.|
 |prathers|Preben Rather Sørensen|0|2021-06-24T06:54:12.|
-|jprusch|jprusch|0|2021-06-28T12:00:18.|
+|dundee|dundee|0|2020-06-19T18:19:11.|
 |Konghuy|Tang Konghuy|0|2021-07-09T04:58:49.|
-|JtheBAB|JtheBAB|0|2021-07-15T16:28:12.|
+|phommasy|phommasy|0|2020-06-19T18:19:09.|
 |nneverwei|nneverwei|0|2021-07-29T12:53:22.|
 |peterk|Peter Krantz|0|2021-08-01T06:32:21.|
 |talesmc|talesmc|0|2021-08-05T06:06:59.|
@@ -256,7 +256,7 @@
 |faysvas|Golfo Vasiliou|0|2021-10-13T12:23:20.|
 |dialvarezs|Diego Alvarez|0|2021-10-13T23:12:25.|
 |sofiacarballo|Sofia Carballo|0|2021-10-15T16:18:49.|
-|varghese.jose|Varghese Jose|0|2021-10-16T05:16:05.|
+|jespino|jespino|0|2020-06-19T18:19:05.|
 |joseph.jose|Joseph Jose|0|2021-10-16T13:00:42.|
 |gaurav-baghel|Gaurav Baghel|0|2021-10-17T06:48:49.|
 |sapora|Rahul Arya|0|2021-10-18T18:01:39.|
@@ -276,7 +276,7 @@
 |AWerbrouck|AWerbrouck|0|2021-10-27T21:58:38.|
 |echobash|Ali Anwar|0|2021-10-28T07:04:36.|
 |serhack|SerHack|0|2021-10-30T08:27:54.|
-|milotype|Milo Ivir|0|2021-10-30T10:27:42.|
+|aeomin|aeomin|0|2020-06-19T18:19:00Z|
 |Ericliu1912|Eric Liu|0|2021-10-31T20:20:45.|
 |valentinrozman|Valentin Rozman|0|2021-11-04T21:16:29.|
 |sondv|dao van son|0|2021-11-11T02:47:28.|
@@ -426,19 +426,19 @@
 |kuehn-innerste|Lars|0|2022-10-06T14:00:44.|
 |Wetula|Wetula|0|2022-10-06T19:42:51.|
 |ludovicobesana|Ludovico Besana|0|2022-10-07T16:59:00.|
-|f2010126|Dipti Sengupta|0|2022-10-08T09:59:04.|
+|mlongo|mlongo|0|2020-06-19T18:18:59Z|
 |ojninja16|ojninja16|0|2022-10-09T05:22:53.|
 |Doom666|Erkan Dogru|0|2022-10-10T13:48:32.|
 |Taz03|Tanish Azad|0|2022-10-12T19:32:24.|
-|Eleferen|Konstantin|0|2022-10-13T14:04:24Z|
+|Heefe|Heefe|0|2020-06-19T18:18:58.|
 |core|Francisco Core|0|2022-10-14T09:47:20.|
 |dibash|Dibash Thapa|0|2022-10-14T12:59:33.|
 |hokandil|Hossam Kandil|0|2022-10-15T11:01:37.|
 |Yordaniss|Dmytro Werner|0|2022-10-15T18:59:02Z|
 |Drishti-jain21|Drishti Jain|0|2022-10-16T17:50:44.|
 |alzee|alzee|0|2022-10-17T16:03:20.|
-|hereje|Angel Mendez Cano|0|2022-10-18T01:54:03.|
-|Fjoerfoks|Fjoerfoks|0|2022-10-18T07:02:54.|
+|anttik|anttik|0|2020-06-19T18:18:58.|
+|ruza|ruza|0|2020-06-19T18:18:57.|
 |andrewwutw|Andrew Wu|0|2022-10-18T07:14:33.|
 |nagy.sandor|Nagy Sándor|0|2022-10-18T10:08:16.|
 |sliine|Dmitry Kosukhin|0|2022-10-19T13:04:34.|
@@ -447,44 +447,43 @@
 |adithyaakrishna|Adithya Krishna|0|2022-10-20T18:36:21.|
 |nayane95|Nayanajith Priyasad|0|2022-10-24T11:19:21.|
 |alexkuryshko|Alexey Kuryshko|0|2022-10-25T15:15:06.|
-|satya.vinay|Satya Vinay|0|2022-10-27T08:27:53.|
-|homerCOD|homerCOD|0|2022-10-29T07:52:53.|
+|enahum|Elias  Nahum|0|2020-06-19T18:18:56Z|
+|hhhhugi|hhhhugi|0|2020-06-19T18:18:56.|
 |oleksii.hubar|Hubar Oleksii|0|2022-11-04T11:28:07.|
 |Zurab.Balamtsarashvili|Zurab Balamtsarashvili|0|2022-11-05T14:04:28.|
 |Yakikim|יקי|0|2022-11-08T07:40:35.|
 |spirosoik|Spiros Economakis|0|2022-11-08T16:21:20.|
 |spiros.economakis|spiros.economakis|0|2022-11-08T16:23:12.|
 |yegorov-p|Pavel Yegorov|0|2022-11-10T19:56:39.|
-|m-ripper|Max Ripper|0|2022-11-11T12:14:01.|
+|jasonblais|jasonblais|0|2020-06-19T18:18:54Z|
 |sarz4fun|sarz4fun|0|2022-11-12T18:06:25.|
 |Eugene-grb|Evgeny Gribanov|0|2022-11-14T07:14:44.|
 |BenLloydPearson||0|2022-11-15T18:40:15.|
-|CI-YU|CI-YU|0|2022-11-16T02:14:58.|
+|thePanz|thePanz|0|2020-06-19T18:18:53Z|
 |PhilippeWeidmann|Philippe Weidmann|0|2022-11-16T07:44:10.|
-|Inutit|Intutit|0|2022-11-17T04:03:47.|
+|cpanato|Carlos Panato|0|2020-06-19T18:18:53Z|
 |Adrianmousegame||0|2022-11-19T03:09:04.|
 |itswryu|iTSWRYU|0|2022-11-21T04:16:55.|
-|aiden|aiden|0|2022-11-21T05:26:58.|
+|Chikei|Chikei|0|2020-06-19T18:18:51Z|
 |topelrapha|topelrapha|0|2022-11-21T08:53:07.|
-|manhdd610|Do Dang Manh|0|2022-11-23T03:56:05.|
-|amin_913|Amin|0|2022-11-27T06:19:15.|
-|belope|Petr Bělousov|0|2022-11-27T22:26:27.|
+|gb|gb|0|2020-06-19T18:18:43.|
+|babu|babu|0|2020-06-19T18:18:37.|
+|avasconcelos114|avasconcelos114|0|2020-06-19T18:18:27Z|
 |Wenton|Alexander Khudolev|0|2022-11-30T07:44:07.|
 |syuo7|syuo7|0|2022-12-01T07:43:47.|
 |skld1|skld1|0|2022-12-01T14:32:32.|
 |vigstudio|Phạm Viết Nghĩa|0|2022-12-02T08:45:28.|
-|remyj38|Remy J|0|2022-12-05T09:32:22.|
-|toomore|Toomore Chiang|0|2022-12-09T05:58:20.|
+|majdy|majdy|0|2020-06-19T18:18:21.|
+|Tornoz|Tornoz|0|2020-06-19T18:18:16.|
 |wiggin77|Doug Lauder|0|2022-12-09T15:08:45.|
 |amyblais|Amy Blais|0|2022-12-16T19:51:04Z|
-|NuriInfos_JSK|정성근|0|2022-12-20T06:58:29.|
+|danninov|danninov|0|2020-06-19T18:18:00.|
 |fahd|Fahd Saleh|0|2022-12-20T10:13:31.|
 |ikjnv|ikjnv|0|2022-12-20T10:48:38.|
 |ToronjaX|Xinyu|0|2022-12-21T01:57:48.|
-|sgmadankar|Shubham Madankar|0|2022-12-21T07:41:12.|
+|bjolud|bjolud|0|2020-06-19T18:17:57.|
 |cedricstocke|Cédric Stocké|0|2022-12-21T12:27:36.|
 |tomaquet18|tomaquet18|0|2022-12-23T11:31:07.|
-|ivenkwan|Iven Kwan|0|2022-12-27T12:51:18.|
-|irdiOL|Irdi|0|2022-12-28T20:27:40.|
-|chay|chaylex|0|2022-12-30T11:27:28.|
-|misaka10843|misaka10843|0|2023-01-01T09:23:11.|
+|controlaltdieliet|Tom De Moor|0|2020-06-18T18:35:25Z|
+|elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z|
+|f2010126|Dipti Sengupta|0|2022-10-08T09:59:04.|

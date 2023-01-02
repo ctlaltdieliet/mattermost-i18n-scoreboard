@@ -1,4 +1,4 @@
-## Top 20 Contributors Week Till Today ##
+## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|
 |--------|--------|----------|----------|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.|
