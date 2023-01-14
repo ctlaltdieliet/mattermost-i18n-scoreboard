@@ -124,7 +124,7 @@ func createPageTranslations(page string, sort string, fromDate string, tillDate 
 		}
 		outputWIP = fmt.Sprintf("%s %d|%s|\n", outputWIP, int64(stats.stats.TranslatedPercent), stats.stats.LastChange)
 	}
-	output := "## Statistics Languages##\n" + outputShipped + outputWIP
+	output := "## Statistics Languages ##\n" + outputShipped + outputWIP
 
 	var file string = pathScript + "/pages/language_statistics.md"
 	os.WriteFile(file, []byte(output), 0644)
