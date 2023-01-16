@@ -1,6 +1,6 @@
 ## Statistics Languages ##
 ###  Shipped languages  ###
-|Language|Language Code|mattermost-webapp|mattermost-server|mattermost-mobile-v2|mattermost-desktop|focalboard-webapp|playbooks-webapp|Total|Last Modified|
+|Language|Code|mattermost-webapp|mattermost-server|mattermost-mobile-v2|mattermost-desktop|focalboard-webapp|playbooks-webapp|Total|Last Modified|
 |---|---|---|---|---|---|---|---|---|---|
 |Dutch|nl| 99| 100| 100| 100| 100| 99| 99|2023-01-16T09:58:44.535231Z|
 |English (Australia)|en_AU| 99| 99| 99| 100| 99| 98| 99|2023-01-16T09:24:28.985467Z|
@@ -23,7 +23,7 @@
 |Ukrainian|uk| 48| 69| 26| 57| 5| 0| 51|2023-01-16T09:21:02.751735Z|
 |Chinese (Simplified)|zh_Hans| 21| 94| 38| 14| 68| 0| 44|2023-01-16T09:25:25.640373Z|
 ###  WIP languages  ###
-|Language|Language Code|mattermost-webapp-wip|mattermost-server-wip|mattermost-webapp-wip|Total|Last Modified|
+|Language|Code|mattermost-webapp-wip|mattermost-server-wip|mattermost-webapp-wip|Total|Last Modified|
 |---|---|---|---|---|---|--|
 |Frisian|fy| 95| 0| 95| 63|2023-01-10T23:12:21.856172Z|
 |Vietnamese|vi| 69| 54| 69| 60|2023-01-09T16:08:49.103661Z|
@@ -54,16 +54,16 @@
 |Mongolian|mn| 1| 0| 1| 1|2022-07-12T00:07:39.334203Z|
 |Lithuanian|lt| 1| 0| 1| 1|2022-12-17T23:24:09.234041Z|
 |Amharic|am| 0| 4| 0| 1|2020-07-04T19:22:35.416407Z|
-|Portuguese|pt| 1| 0| 1| 1|2022-10-14T09:51:47.426410Z|
 |Bengali|bn| 1| 0| 1| 1|2022-06-18T00:07:36.707192Z|
+|Portuguese|pt| 1| 0| 1| 1|2022-10-14T09:51:47.426410Z|
 |Khmer (Central)|km| 0| 1| 0| 0|2021-07-26T03:02:08.728598Z|
 |Basque|eu| 0| 1| 0| 0|2021-06-22T14:46:44.626603Z|
 |Breton|br| 0| 1| 0| 0|2022-10-20T14:33:30.929526Z|
 |Sinhala|si| 0| 0| 0| 0|2022-10-24T11:26:43.423982Z|
-|Gujarati|gu| 0| 0| 0| 0|2021-09-27T12:12:04.194601Z|
-|Thai|th| 0| 0| 0| 0|2022-05-03T14:48:59.991556Z|
 |Latvian|lv| 0| 0| 0| 0|2022-12-17T23:24:22.390841Z|
+|Thai|th| 0| 0| 0| 0|2022-05-03T14:48:59.991556Z|
+|Gujarati|gu| 0| 0| 0| 0|2021-09-27T12:12:04.194601Z|
 |Pirate|pr| 0| 0| 0| 0|2022-06-28T08:46:29.046651Z|
-|Icelandic|is| 0| 0| 0| 0||
-|Filipino|fil| 0| 0| 0| 0||
 |Latin|la| 0| 0| 0| 0||
+|Filipino|fil| 0| 0| 0| 0||
+|Icelandic|is| 0| 0| 0| 0||
