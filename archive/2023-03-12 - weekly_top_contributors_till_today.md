@@ -1,4 +1,4 @@
-## Top 20 Contributors Current Week ##
+## Top 20 Contributors Week Till Today ##
 |Username|Fullname|Translated|DateJoined|
 |--------|--------|----------|----------|
 |isaacbegit|Isaac Be.|131|2023-03-06T13:29:33.|
