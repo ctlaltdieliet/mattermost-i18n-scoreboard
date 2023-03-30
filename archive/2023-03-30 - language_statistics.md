@@ -3,8 +3,8 @@
 |Language|Code|mattermost-webapp|mattermost-server|mattermost-mobile-v2|mattermost-desktop|focalboard-webapp|playbooks-webapp|Total|Last Modified|
 |---|---|---|---|---|---|---|---|---|---|
 |German|de| 100| 0| 100| 100| 100| 100| 99|2023-03-29T06:58:49.927282Z|
-|Polish|pl| 100| 0| 100| 100| 100| 100| 99|2023-03-29T05:34:17.276917Z|
 |Swedish|sv| 99| 0| 100| 100| 100| 100| 99|2023-03-29T07:30:17.468754Z|
+|Polish|pl| 100| 0| 100| 100| 100| 100| 99|2023-03-29T05:34:17.276917Z|
 |English (Australia)|en_AU| 99| 0| 100| 100| 100| 99| 99|2023-03-28T15:55:31.979975Z|
 |Japanese|ja| 99| 0| 100| 100| 100| 100| 99|2023-03-28T15:56:26.419784Z|
 |Dutch|nl| 99| 0| 100| 100| 99| 100| 98|2023-03-29T18:48:36.227325Z|
@@ -65,6 +65,6 @@
 |Gujarati|gu| 0| 0| 0| 0|2021-09-27T12:12:04.194601Z|
 |Latvian|lv| 0| 0| 0| 0|2022-12-17T23:24:22.390841Z|
 |Pirate|pr| 0| 0| 0| 0|2022-06-28T08:46:29.046651Z|
-|Latin|la| 0| 0| 0| 0||
-|Icelandic|is| 0| 0| 0| 0||
 |Filipino|fil| 0| 0| 0| 0||
+|Icelandic|is| 0| 0| 0| 0||
+|Latin|la| 0| 0| 0| 0||
