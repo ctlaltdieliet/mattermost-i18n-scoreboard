@@ -166,6 +166,9 @@ func readWeblateStatsTranslations(urlRequest string) map[string]languageStats {
 							k.Component.Name = "playbooks-webapp"
 						}
 
+						if k.Component.Project.Name == "Calls" && k.Component.Name == "webapp" {
+							k.Component.Name = "calls-webapp"
+						}
 						tempComponent.ComponentName = k.Component.Name
 						tempComponent.Total = k.Total
 						tempComponent.TotalWords = k.TotalWords

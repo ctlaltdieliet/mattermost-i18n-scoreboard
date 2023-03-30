@@ -12,7 +12,7 @@ import (
 )
 
 func getComponents() ([]string, []string) {
-	componentsShipped := []string{"webapp-monorepo", "mattermost-server-monorepo", "mattermost-mobile-v2", "mattermost-desktop", "focalboard-webapp", "playbooks-webapp", "calls"}
+	componentsShipped := []string{"mattermost-webapp-monorepo", "mattermost-server-monorepo", "mattermost-mobile-v2", "mattermost-desktop", "focalboard-webapp", "playbooks-webapp", "calls-webapp"}
 	componentsWIP := []string{"mattermost-webapp-wip", "mattermost-server-wip", "mattermost-webapp-wip"}
 	return componentsShipped, componentsWIP
 }
@@ -63,7 +63,7 @@ func createPageTranslations(page string, sort string, fromDate string, tillDate 
 	var outputShipped string = "###  Shipped languages  ###\n"
 	var outputWIP string = "###  WIP languages  ###\n"
 
-	componentsShipped := []string{"webapp-monorepo", "mattermost-server-monorepo", "mattermost-mobile-v2", "mattermost-desktop", "focalboard-webapp", "playbooks-webapp"}
+	componentsShipped := []string{"mattermost-webapp-monorepo", "mattermost-server-monorepo", "mattermost-mobile-v2", "mattermost-desktop", "focalboard-webapp", "playbooks-webapp","calls-webapp"}
 	componentsWIP := []string{"mattermost-webapp-wip", "mattermost-server-wip", "mattermost-webapp-wip"}
 
 	outputShipped = outputShipped + "|Language|Code|"
