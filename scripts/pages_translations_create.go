@@ -12,7 +12,7 @@ import (
 )
 
 func getComponents() ([]string, []string) {
-	componentsShipped := []string{"mattermost-webapp", "mattermost-server", "mattermost-mobile-v2", "mattermost-desktop", "focalboard-webapp", "playbooks-webapp"}
+	componentsShipped := []string{"webapp-monorepo", "mattermost-server-monorepo", "mattermost-mobile-v2", "mattermost-desktop", "focalboard-webapp", "playbooks-webapp", "calls"}
 	componentsWIP := []string{"mattermost-webapp-wip", "mattermost-server-wip", "mattermost-webapp-wip"}
 	return componentsShipped, componentsWIP
 }
@@ -63,10 +63,10 @@ func createPageTranslations(page string, sort string, fromDate string, tillDate 
 	var outputShipped string = "###  Shipped languages  ###\n"
 	var outputWIP string = "###  WIP languages  ###\n"
 
-	componentsShipped := []string{"mattermost-webapp", "mattermost-server", "mattermost-mobile-v2", "mattermost-desktop", "focalboard-webapp", "playbooks-webapp"}
+	componentsShipped := []string{"webapp-monorepo", "mattermost-server-monorepo", "mattermost-mobile-v2", "mattermost-desktop", "focalboard-webapp", "playbooks-webapp"}
 	componentsWIP := []string{"mattermost-webapp-wip", "mattermost-server-wip", "mattermost-webapp-wip"}
 
-	outputShipped = outputShipped + "|Language|Language Code|"
+	outputShipped = outputShipped + "|Language|Code|"
 	for _, component := range componentsShipped {
 		outputShipped = outputShipped + component + "|"
 		outputShippedTitles = outputShippedTitles + "---|"
@@ -74,7 +74,7 @@ func createPageTranslations(page string, sort string, fromDate string, tillDate 
 	outputShippedTitles = outputShippedTitles + "---|---|\n"
 	outputShipped = outputShipped + "Total|Last Modified|\n" + outputShippedTitles
 
-	outputWIP = outputWIP + "|Language|Language Code|"
+	outputWIP = outputWIP + "|Language|Code|"
 	for _, component := range componentsWIP {
 		outputWIP = outputWIP + component + "|"
 		outputWIPTitles = outputWIPTitles + "---|"
