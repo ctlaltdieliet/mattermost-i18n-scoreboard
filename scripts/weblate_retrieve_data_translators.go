@@ -7,6 +7,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strings"
 	"time"
 )
 
@@ -27,6 +28,13 @@ type usersOverview struct {
 	Count   int    `json:"count"`
 	Next    string `json:"next"`
 	Results []generalUserData
+}
+
+type userChangesResults struct {
+	Translation string `json:"translation"`
+}
+type userChanges struct {
+	Results []userChangesResults
 }
 
 func fetchAllUsers(urlRequest string) []generalUserData {
@@ -83,6 +91,7 @@ func fetchAllUsers(urlRequest string) []generalUserData {
 
 func fetchTranslationsByUser(weblateusers []generalUserData) []translator {
 	var translators []translator
+	var language string = ""
 	var urlStats string = ""
 	for k := range weblateusers {
 		urlStats = weblateusers[k].StatisticsURL
@@ -122,6 +131,45 @@ func fetchTranslationsByUser(weblateusers []generalUserData) []translator {
 			if err != nil {
 				log.Fatal(err)
 			}
+			if (res.Suggested + res.Commented + res.Translated) > 0 {
+				urlLanguage := "https://translate.mattermost.com/api/changes/?action=5&user=" + weblateusers[k].Username
+				weblateClient := http.Client{
+					Timeout: time.Second * 2, // Timeout after 2 seconds
+				}
+
+				reqLang, err := http.NewRequest(http.MethodGet, urlLanguage, nil)
+				if err != nil {
+					fmt.Println("Could not make request")
+					log.Fatal(err)
+				}
+
+				//req.Header.Set("Authorization", "Token "+weblateToken)
+
+				resLang, getErr := weblateClient.Do(reqLang)
+				if resLang.StatusCode != 200 {
+					fmt.Println("weblate didn't respond 200")
+					log.Fatal(getErr)
+				}
+				if getErr != nil {
+					fmt.Println("Failure weblateClient")
+					log.Fatal(getErr)
+				}
+				if resLang.Body != nil {
+					defer resLang.Body.Close()
+				}
+
+				bodyBytes, readErr := ioutil.ReadAll(resLang.Body)
+				if readErr != nil {
+					fmt.Println("failure reading body")
+					log.Fatal(readErr)
+				} else {
+					var resLang userChanges
+					json.Unmarshal(bodyBytes, &resLang)
+					s := strings.Split(resLang.Results[0].Translation, "/")
+					language = s[len(s)-2]
+				}
+			}
+
 			translators = append(translators, translator{
 				FullName:   weblateusers[k].FullName,
 				Username:   weblateusers[k].Username,
@@ -131,6 +179,7 @@ func fetchTranslationsByUser(weblateusers []generalUserData) []translator {
 				Suggested:  res.Suggested,
 				Total:      res.Suggested + res.Commented + res.Translated,
 				Languages:  res.Languages,
+				Language:   language,
 			})
 		}
 	}
@@ -147,3 +196,4 @@ func writeToFileTranslators(translators []translator) {
 	os.MkdirAll(folder, os.ModePerm)
 	os.WriteFile(folder+fmt.Sprint(day)+".json", jsondata, 0644)
 }
+

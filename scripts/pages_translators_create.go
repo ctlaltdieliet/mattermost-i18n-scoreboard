@@ -21,6 +21,7 @@ type translator struct {
 	Commented  int
 	Total      int
 	Languages  int
+	Language   string
 }
 
 func createStatsTranslators(fromdate string, tilldate string) []translator {
@@ -132,12 +133,12 @@ func createPageTranslators(title string, page string, Sort string, fromDate stri
 		}
 	})
 
-	output = output + "|Username|Fullname|Translated|DateJoined|\n"
-	output = output + "|--------|--------|----------|----------|\n"
+	output = output + "|Username|Fullname|Translated|DateJoined|Language|\n"
+	output = output + "|--------|--------|----------|----------||-------|\n"
 
 	for i, translator := range translators {
 		if i < limit {
-			output = output + fmt.Sprintf("|%s|%s|%d|%s|\n", translator.Username, translator.FullName, translator.Translated, translator.DateJoined[0:20])
+			output = output + fmt.Sprintf("|%s|%s|%d|%s|\n", translator.Username, translator.FullName, translator.Translated, translator.DateJoined[0:20], translator.Language)
 		}
 	}
 
@@ -166,11 +167,8 @@ func fetchTranslators() {
 
 	if now.DayOfWeek() == 7 {
 		//IT'S SUNDAY, CREATE WEEKLY STATS
-		EndOfPrevMonth := now.StartOfMonth().Yesterday()
-		StartOfPrevMonth := EndOfPrevMonth.StartOfMonth()
 		createPageTranslators("Top 20 Contributors Current Week", "weekly_top_contributors.md", "Translated", StartOfCurrentWeek.ToDateString(), now.ToDateString(), 20, true)
 		createPageTranslators("Top 20 Contributors From Beginning Month Till Today", "current_month_top_contributors.md", "Translated", StartOfCurrentMonth.ToDateString(), now.ToDateString(), 20, true)
-		createPageTranslators("Translators By Date Joined", "translators_by_date_joined.md", "DateJoined", StartOfPrevMonth.ToDateString(), EndOfPrevMonth.ToDateString(), 0, true)
 	}
 	if now.DayOfMonth() == 1 {
 		// IT'S THE BEGINNING OF THE MONTH, CREATE MONTHLY STATS
@@ -180,7 +178,7 @@ func fetchTranslators() {
 		createPageTranslators("Contributors YEAR TILL TODAY", "year_till_today_contributors.md", "Translated", now.StartOfYear().ToDateString(), now.ToDateString(), 0, true)
 
 		createPageTranslators("Translators By Date Joined", "translators_by_date_joined.md", "DateJoined", StartOfPrevMonth.ToDateString(), EndOfPrevMonth.ToDateString(), 0, true)
-		if now.MonthOfYear() == 1 || now.MonthOfYear() == 4 || now.MonthOfYear() == 8 || now.MonthOfYear() == 12 {
+		if now.MonthOfYear() == 1 || now.MonthOfYear() == 4 || now.MonthOfYear() == 8 || now.MonthOfYear() == 20 {
 			//IT'S THE START OF A NEW QUARTER, CREATE QUARTERLY STATS
 			EndOfPrevQuarter := now.StartOfQuarter().Yesterday()
 			StartOfPrevQuarter := EndOfPrevQuarter.StartOfQuarter()
@@ -194,3 +192,4 @@ func fetchTranslators() {
 		}
 	}
 }
+
