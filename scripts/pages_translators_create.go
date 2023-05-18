@@ -138,7 +138,7 @@ func createPageTranslators(title string, page string, Sort string, fromDate stri
 
 	for i, translator := range translators {
 		if i < limit {
-			output = output + fmt.Sprintf("|%s|%s|%d|%s|\n", translator.Username, translator.FullName, translator.Translated, translator.DateJoined[0:20], translator.Language)
+			output = output + fmt.Sprintf("|%s|%s|%d|%s|%s|\n", translator.Username, translator.FullName, translator.Translated, translator.DateJoined[0:20], translator.Language)
 		}
 	}
 

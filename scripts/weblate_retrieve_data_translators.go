@@ -8,6 +8,7 @@ import (
 	"net/http"
 	"os"
 	"strings"
+	"strconv"
 	"time"
 )
 
@@ -59,7 +60,7 @@ func fetchAllUsers(urlRequest string) []generalUserData {
 			log.Fatal(getErr)
 		}
 		if res.StatusCode != 200 {
-			fmt.Println("weblate didn't respond 200")
+			fmt.Println("weblate didn't respond 200 -1  but"+strconv.Itoa(res.StatusCode))
 			log.Fatal(getErr)
 		}
 
@@ -110,7 +111,7 @@ func fetchTranslationsByUser(weblateusers []generalUserData) []translator {
 
 		res, getErr := weblateClient.Do(req)
 		if res.StatusCode != 200 {
-			fmt.Println("weblate didn't respond 200")
+			fmt.Println("weblate didn't respond 200 -2 but "+strconv.Itoa(res.StatusCode))
 			log.Fatal(getErr)
 		}
 		if getErr != nil {
@@ -143,11 +144,11 @@ func fetchTranslationsByUser(weblateusers []generalUserData) []translator {
 					log.Fatal(err)
 				}
 
-				//req.Header.Set("Authorization", "Token "+weblateToken)
+				reqLang.Header.Set("Authorization", "Token "+weblateToken)
 
 				resLang, getErr := weblateClient.Do(reqLang)
 				if resLang.StatusCode != 200 {
-					fmt.Println("weblate didn't respond 200")
+					fmt.Println("weblate didn't respond 200 -3 but "+strconv.Itoa(resLang.StatusCode))
 					log.Fatal(getErr)
 				}
 				if getErr != nil {
@@ -165,10 +166,13 @@ func fetchTranslationsByUser(weblateusers []generalUserData) []translator {
 				} else {
 					var resLang userChanges
 					json.Unmarshal(bodyBytes, &resLang)
-					s := strings.Split(resLang.Results[0].Translation, "/")
-					language = s[len(s)-2]
+					for l := range resLang.Results {
+						s := strings.Split(resLang.Results[l].Translation, "/")
+						language = s[len(s)-2]
+					}
 				}
 			}
+			
 
 			translators = append(translators, translator{
 				FullName:   weblateusers[k].FullName,
