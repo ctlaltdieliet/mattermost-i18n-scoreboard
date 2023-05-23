@@ -172,7 +172,6 @@ func fetchTranslationsByUser(weblateusers []generalUserData) []translator {
 					}
 				}
 			}
-			
 
 			translators = append(translators, translator{
 				FullName:   weblateusers[k].FullName,
@@ -185,6 +184,7 @@ func fetchTranslationsByUser(weblateusers []generalUserData) []translator {
 				Languages:  res.Languages,
 				Language:   language,
 			})
+			language=""
 		}
 	}
 	return translators

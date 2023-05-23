@@ -58,6 +58,7 @@ func createStatsTranslators(fromdate string, tilldate string) []translator {
 								Commented:  translatorsTill[vT].Commented - translatorsFrom[vF].Commented,
 								Suggested:  translatorsTill[vT].Suggested - translatorsFrom[vF].Suggested,
 								Total:      translatorsTill[vT].Total - translatorsFrom[vF].Total,
+								Language:      translatorsTill[vT].Language,
 							})
 							found = true
 							continue
@@ -73,6 +74,7 @@ func createStatsTranslators(fromdate string, tilldate string) []translator {
 							Commented:  translatorsTill[vT].Commented,
 							Suggested:  translatorsTill[vT].Suggested,
 							Total:      translatorsTill[vT].Total,
+							Language:      translatorsTill[vT].Language,
 						})
 					}
 				}
@@ -134,7 +136,7 @@ func createPageTranslators(title string, page string, Sort string, fromDate stri
 	})
 
 	output = output + "|Username|Fullname|Translated|DateJoined|Language|\n"
-	output = output + "|--------|--------|----------|----------||-------|\n"
+	output = output + "|--------|--------|----------|----------|-------|\n"
 
 	for i, translator := range translators {
 		if i < limit {
