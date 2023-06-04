@@ -2,8 +2,8 @@
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
 |tsabi|Csaba Tóth|128|2020-10-03T09:34:39.|hu|
-|timmycheng|timmycheng|15|2023-06-02T06:14:18.|zh_Hans|
-|ctlaltdieliet|Tom De Moor|3|2020-06-19T16:30:47Z|nl|
+|timmycheng|timmycheng|89|2023-06-02T06:14:18.|zh_Hans|
+|ctlaltdieliet|Tom De Moor|4|2020-06-19T16:30:47Z|nl|
 |kaakaa|kaakaa|3|2020-06-19T18:20:26Z|ja|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
 |bjolud|bjolud|0|2020-06-19T18:17:57.||
