@@ -21,7 +21,7 @@ func splitShippedWippedLanguages(languageStatistics map[string]languageStats) (m
 	var WIPLanguages = make(map[string]languageStats)
 	for language, stats := range languageStatistics {
 		for _, component := range stats.Components {
-			if component.ComponentName == "mattermost-webapp" {
+			if component.ComponentName == "mattermost-webapp-monorepo" {
 				shippedLanguages[language] = stats
 			}
 			if component.ComponentName == "mattermost-webapp-wip" {
