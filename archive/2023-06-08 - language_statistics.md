@@ -1,6 +1,6 @@
 ## Statistics Languages ##
 ###  Shipped languages  ###
-|Language|Code|mattermost-webapp-monorepo|mattermost-server-monorepo|mattermost-mobile-v2|mattermost-desktop|focalboard-webapp|playbooks-webapp|calls-webapp|Total|Last Modified|
+|Language|Code|webapp-monorepo|mattermost-server-monorepo|mattermost-mobile-v2|mattermost-desktop|focalboard-webapp|playbooks-webapp|calls-webapp|Total|Last Modified|
 |---|---|---|---|---|---|---|---|---|---|---|
 ###  WIP languages  ###
 |Language|Code|mattermost-webapp-wip|mattermost-server-wip|mattermost-webapp-wip|Total|Last Modified|
@@ -24,8 +24,8 @@
 |Georgian|ka| 9| 4| 9| 6|2023-04-10T20:31:24.828471Z|
 |Danish|da| 11| 4| 11| 5|2023-02-28T08:17:12.460986Z|
 |Albanian|sq| 3| 1| 3| 5|2023-03-30T14:07:18.996586Z|
-|Portuguese|pt| 1| 0| 1| 3|2023-05-26T13:13:24.949787Z|
 |Norwegian Bokmål|nb_NO| 2| 0| 2| 3|2023-04-07T15:44:19.938225Z|
+|Portuguese|pt| 1| 0| 1| 3|2023-05-26T13:13:24.949787Z|
 |Macedonian|mk| 2| 9| 2| 3|2023-05-05T04:29:07.020368Z|
 |Kazakh|kk| 1| 0| 1| 2|2023-01-20T12:30:28.434837Z|
 |Lao|lo| 5| 0| 5| 2|2023-01-28T03:29:57.636840Z|
@@ -39,10 +39,10 @@
 |Basque|eu| 0| 1| 0| 0|2021-06-22T14:46:44.626603Z|
 |Breton|br| 0| 1| 0| 0|2022-10-20T14:33:30.929526Z|
 |Sinhala|si| 0| 0| 0| 0|2022-10-24T11:26:43.423982Z|
-|Latvian|lv| 0| 0| 0| 0|2022-12-17T23:24:22.390841Z|
-|Thai|th| 0| 0| 0| 0|2022-05-03T14:48:59.991556Z|
-|Filipino|fil| 0| 0| 0| 0||
 |Pirate|pr| 0| 0| 0| 0|2022-06-28T08:46:29.046651Z|
 |Gujarati|gu| 0| 0| 0| 0|2021-09-27T12:12:04.194601Z|
-|Latin|la| 0| 0| 0| 0||
+|Latvian|lv| 0| 0| 0| 0|2022-12-17T23:24:22.390841Z|
 |Icelandic|is| 0| 0| 0| 0||
+|Latin|la| 0| 0| 0| 0||
+|Filipino|fil| 0| 0| 0| 0||
+|Thai|th| 0| 0| 0| 0|2022-05-03T14:48:59.991556Z|
