@@ -12,8 +12,8 @@ import (
 )
 
 func getComponents() ([]string, []string) {
-	componentsShipped := []string{"mattermost-webapp-monorepo", "mattermost-server-monorepo", "mattermost-mobile-v2", "mattermost-desktop", "focalboard-webapp", "playbooks-webapp", "calls-webapp"}
-	componentsWIP := []string{"mattermost-webapp-wip", "mattermost-server-wip", "mattermost-webapp-wip"}
+	componentsShipped := []string{"mattermost-webapp-monorepo", "mattermost-server-monorepo", "mattermost-mobile-v2", "mattermost-desktop", "mattermost-boards-webapp-monorepo", "mattermost-playbooks-webapp-monorepo", "calls-webapp"}
+	componentsWIP := []string{"mattermost-webapp-wip", "mattermost-server-wip", "mattermost-webapp-wip","mattermost-desktop-wip"}
 	return componentsShipped, componentsWIP
 }
 func splitShippedWippedLanguages(languageStatistics map[string]languageStats) (map[string]languageStats, map[string]languageStats) {
@@ -29,6 +29,7 @@ func splitShippedWippedLanguages(languageStatistics map[string]languageStats) (m
 			}
 		}
 	}
+	fmt.Println(shippedLanguages)
 	return shippedLanguages, WIPLanguages
 }
 
@@ -63,8 +64,8 @@ func createPageTranslations(page string, sort string, fromDate string, tillDate 
 	var outputShipped string = "###  Shipped languages  ###\n"
 	var outputWIP string = "###  WIP languages  ###\n"
 
-	componentsShipped := []string{"mattermost-webapp-monorepo", "mattermost-server-monorepo", "mattermost-mobile-v2", "mattermost-desktop", "focalboard-webapp", "playbooks-webapp","calls-webapp"}
-	componentsWIP := []string{"mattermost-webapp-wip", "mattermost-server-wip", "mattermost-webapp-wip"}
+	componentsShipped := []string{"mattermost-webapp-monorepo", "mattermost-server-monorepo", "mattermost-mobile-v2", "mattermost-desktop", "mattermost-boards-webapp-monorepo", "mattermost-playbooks-webapp-monorepo","calls-webapp"}
+	componentsWIP := []string{"mattermost-webapp-wip", "mattermost-server-wip", "mattermost-webapp-wip","mattermost-desktop-wip"}
 
 	outputShipped = outputShipped + "|Language|Code|"
 	for _, component := range componentsShipped {
