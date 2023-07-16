@@ -6,7 +6,7 @@
 |danielcw|danielcw|364|2023-07-08T12:19:20.|zh_Hant|
 |majo|MArtin Johnson|250|2020-06-19T18:19:45Z|sv|
 |kayazeren|Kaya Zeren|244|2020-06-19T07:05:24Z|tr|
-|hanh.h.pham|Phạm Hồng Hạnh|190|2023-07-11T06:19:46.|vi|
+|hanh.h.pham|Phạm Hồng Hạnh|208|2023-07-11T06:19:46.|vi|
 |azistellar|Abdulaziz|87|2023-07-05T14:09:56.|ar|
 |master7|master7|66|2020-06-19T18:20:39.|pl|
 |morgancz|Ladislav Urbánek|31|2023-03-28T10:19:33.|cs|
@@ -16,8 +16,8 @@
 |jprusch|jprusch|8|2021-06-28T12:00:18.|de|
 |matthew-w|Matthew Williams|7|2021-03-01T11:40:28.|en_AU|
 |varghese.jose|Varghese Jose|4|2021-10-16T05:16:05.|ml|
+|guuw|Gustavo Dias|3|2023-07-15T17:24:56.|pt_BR|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|jasonblais|jasonblais|0|2020-06-19T18:18:54Z||
 |hhhhugi|hhhhugi|0|2020-06-19T18:18:56.||
 |enahum|Elias  Nahum|0|2020-06-19T18:18:56Z|es|
 |ruza|ruza|0|2020-06-19T18:18:57.||
