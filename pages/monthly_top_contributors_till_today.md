@@ -1,11 +1,11 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|kayazeren|Kaya Zeren|360|2020-06-19T07:05:24Z|tr|
+|kayazeren|Kaya Zeren|1164|2020-06-19T07:05:24Z|tr|
 |matthew-w|Matthew Williams|253|2021-03-01T11:40:28.|en_AU|
 |Eleferen|Konstantin|143|2022-10-13T14:04:24Z|ru|
 |master7|master7|115|2020-06-19T18:20:39.|pl|
-|majo|MArtin Johnson|91|2020-06-19T18:19:45Z|sv|
+|majo|MArtin Johnson|95|2020-06-19T18:19:45Z|sv|
 |jprusch|jprusch|80|2021-06-28T12:00:18.|de|
 |Sharuru|Sharuru|74|2020-06-19T18:20:22.|zh_Hans|
 |CI-YU|CI-YU|23|2022-11-16T02:14:58.|zh_Hant|
