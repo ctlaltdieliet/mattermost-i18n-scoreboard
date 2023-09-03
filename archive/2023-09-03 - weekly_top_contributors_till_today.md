@@ -1,15 +1,15 @@
-## Top 20 Contributors From Beginning Month Till Today ##
+## Top 20 Contributors Week Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|master7|master7|1|2020-06-19T18:20:39.|pl|
+|master7|master7|22|2020-06-19T18:20:39.|pl|
+|pjenicot|Pierre JENICOT|14|2021-03-19T08:51:04.|fr|
+|y4aniv|Yaniv|9|2023-08-30T20:59:32.|fr|
+|Eleferen|Konstantin|8|2022-10-13T14:04:24Z|ru|
+|jprusch|jprusch|8|2021-06-28T12:00:18.|de|
+|timmycheng|timmycheng|8|2023-06-02T06:14:18.|zh_Hans|
+|majo|MArtin Johnson|6|2020-06-19T18:19:45Z|sv|
+|ThrRip|ThrRip He|5|2023-05-13T21:46:16.|zh_Hans|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|controlaltdieliet|Tom De Moor|0|2020-06-18T18:35:25Z||
-|kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|tr|
-|ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|nl|
-|bjolud|bjolud|0|2020-06-19T18:17:57.||
-|danninov|danninov|0|2020-06-19T18:18:00.||
-|Tornoz|Tornoz|0|2020-06-19T18:18:16.|br|
-|majdy|majdy|0|2020-06-19T18:18:21.||
 |avasconcelos114|avasconcelos114|0|2020-06-19T18:18:27Z||
 |babu|babu|0|2020-06-19T18:18:37.||
 |gb|gb|0|2020-06-19T18:18:43.||
