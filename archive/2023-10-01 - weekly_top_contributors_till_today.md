@@ -1,4 +1,4 @@
-## Top 20 Contributors Current Week ##
+## Top 20 Contributors Week Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
 |Weblate.Fix@controlaltdieliet.be|Weblate.Fix@controlaltdieliet.be|5413|2023-09-26T07:16:39.||
