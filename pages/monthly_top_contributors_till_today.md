@@ -1,7 +1,7 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|milotype|Milo Ivir|962|2021-10-30T10:27:42.|hr|
+|milotype|Milo Ivir|1228|2021-10-30T10:27:42.|hr|
 |nathanaelhoun|Nathanaël|23|2020-06-19T18:19:44.|fr|
 |Eleferen|Konstantin|10|2022-10-13T14:04:24Z|ru|
 |arthurhrg|Arthur|3|2023-10-18T07:09:50.||
