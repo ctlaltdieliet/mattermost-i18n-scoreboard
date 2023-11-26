@@ -2,8 +2,8 @@
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
 |milotype|Milo Ivir|2390|2021-10-30T10:27:42.|hr|
-|ThrRip|ThrRip|703|2023-05-13T21:46:16.|zh_Hans|
-|tsabi|Csaba Tóth|342|2020-10-03T09:34:39.|hu|
+|ThrRip|ThrRip|705|2023-05-13T21:46:16.|zh_Hans|
+|tsabi|Csaba Tóth|375|2020-10-03T09:34:39.|hu|
 |master7|master7|244|2020-06-19T18:20:39.|pl|
 |kaakaa|kaakaa|221|2020-06-19T18:20:26Z|ja|
 |jprusch|jprusch|185|2021-06-28T12:00:18.|de|
