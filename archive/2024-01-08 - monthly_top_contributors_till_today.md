@@ -1,11 +1,11 @@
-## Top 20 Contributors Week Till Today ##
+## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|master7|master7|43|2020-06-19T18:20:39.|pl|
+|Andriuspre|Andrius Prekevičius|27|2024-01-04T18:21:07.|lt|
+|kaakaa|kaakaa|17|2020-06-19T18:20:26Z|ja|
+|jprusch|jprusch|4|2021-06-28T12:00:18.|de|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z||
-|controlaltdieliet|Tom De Moor|0|2020-06-18T18:35:25Z||
-|kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|tr|
-|ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|nl|
 |bjolud|bjolud|0|2020-06-19T18:17:57.||
 |danninov|danninov|0|2020-06-19T18:18:00.||
 |Tornoz|Tornoz|0|2020-06-19T18:18:16.||
