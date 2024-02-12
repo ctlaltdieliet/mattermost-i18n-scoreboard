@@ -1,15 +1,15 @@
-## Top 20 Contributors Week Till Today ##
+## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|jones|Martin Joneš|616|2024-01-24T11:12:59.|cs|
+|Chlbek|Petr Chlíbek|223|2024-01-24T11:39:51.|cs|
+|Eleferen|Konstantin|101|2022-10-13T14:04:24Z|ru|
+|ThrRip|ThrRip|81|2023-05-13T21:46:16.|zh_Hans|
+|master7|master7|63|2020-06-19T18:20:39.|pl|
+|matthew-w|Matthew Williams|36|2021-03-01T11:40:28.|en_AU|
+|jprusch|jprusch|26|2021-06-28T12:00:18.|de|
+|ctlaltdieliet|Tom De Moor|5|2020-06-19T16:30:47Z|nl|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z||
-|controlaltdieliet|Tom De Moor|0|2020-06-18T18:35:25Z||
-|kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|tr|
-|ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|nl|
-|bjolud|bjolud|0|2020-06-19T18:17:57.||
-|danninov|danninov|0|2020-06-19T18:18:00.||
-|Tornoz|Tornoz|0|2020-06-19T18:18:16.||
-|majdy|majdy|0|2020-06-19T18:18:21.||
 |avasconcelos114|avasconcelos114|0|2020-06-19T18:18:27Z||
 |babu|babu|0|2020-06-19T18:18:37.||
 |gb|gb|0|2020-06-19T18:18:43.||
