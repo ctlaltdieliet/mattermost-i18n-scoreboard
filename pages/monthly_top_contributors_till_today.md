@@ -1,11 +1,11 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|hereje|Angel Mendez Cano|10|2022-10-18T01:54:03.|es|
-|master7|master7|4|2020-06-19T18:20:39.|pl|
+|hereje|Angel Mendez Cano|72|2022-10-18T01:54:03.|es|
+|majo|MArtin Johnson|34|2020-06-19T18:19:45Z|sv|
 |jprusch|jprusch|4|2021-06-28T12:00:18.|de|
+|master7|master7|4|2020-06-19T18:20:39.|pl|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|nl|
 |bjolud|bjolud|0|2020-06-19T18:17:57.||
 |danninov|danninov|0|2020-06-19T18:18:00.||
 |Tornoz|Tornoz|0|2020-06-19T18:18:16.||
