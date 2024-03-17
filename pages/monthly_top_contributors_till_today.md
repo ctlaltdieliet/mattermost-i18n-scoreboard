@@ -3,10 +3,10 @@
 |--------|--------|----------|----------|-------|
 |kayazeren|Kaya Zeren|770|2020-06-19T07:05:24Z|tr|
 |poppfredslund|Martin Popp Fredslund (SektorCERT)|383|2024-03-11T08:34:34.|da|
+|majo|MArtin Johnson|203|2020-06-19T18:19:45Z|sv|
 |hereje|Angel Mendez Cano|171|2022-10-18T01:54:03.|es|
 |jprusch|jprusch|153|2021-06-28T12:00:18.|de|
 |master7|master7|151|2020-06-19T18:20:39.|pl|
-|majo|MArtin Johnson|123|2020-06-19T18:19:45Z|sv|
 |ThrRip|ThrRip|79|2023-05-13T21:46:16.|zh_Hans|
 |ctlaltdieliet|Tom De Moor|66|2020-06-19T16:30:47Z|nl|
 |Blaieet|Blai|10|2024-03-13T18:36:52.|ca|
