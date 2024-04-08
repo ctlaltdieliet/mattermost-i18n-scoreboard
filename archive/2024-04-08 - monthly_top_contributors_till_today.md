@@ -1,16 +1,16 @@
-## Top 20 Contributors Week Till Today ##
+## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|master7|master7|63|2020-06-19T18:20:39.|pl|
+|poppfredslund|Martin Popp Fredslund (SektorCERT)|48|2024-03-11T08:34:34.|da|
+|rOt779kVceSgL|R Oyanagi|9|2023-06-16T02:12:43.|ja|
+|ThrRip|ThrRip|5|2023-05-13T21:46:16.|zh_Hans|
+|inconnu|Thomas Marny|5|2024-04-02T08:34:07.||
+|ctlaltdieliet|Tom De Moor|4|2020-06-19T16:30:47Z|nl|
+|jprusch|jprusch|4|2021-06-28T12:00:18.|de|
+|nmnj|Nemanja Slavković|2|2024-04-03T11:48:55.|sr|
+|majo|MArtin Johnson|2|2020-06-19T18:19:45Z|sv|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z||
-|controlaltdieliet|Tom De Moor|0|2020-06-18T18:35:25Z||
-|kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|tr|
-|ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|nl|
-|bjolud|bjolud|0|2020-06-19T18:17:57.||
-|danninov|danninov|0|2020-06-19T18:18:00.||
-|Tornoz|Tornoz|0|2020-06-19T18:18:16.||
-|majdy|majdy|0|2020-06-19T18:18:21.||
-|avasconcelos114|avasconcelos114|0|2020-06-19T18:18:27Z||
 |babu|babu|0|2020-06-19T18:18:37.||
 |gb|gb|0|2020-06-19T18:18:43.||
 |wget|wget|0|2020-06-19T18:18:50Z||
