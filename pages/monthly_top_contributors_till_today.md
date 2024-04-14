@@ -1,8 +1,9 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|kayazeren|Kaya Zeren|2318|2020-06-19T07:05:24Z|tr|
+|kayazeren|Kaya Zeren|3846|2020-06-19T07:05:24Z|tr|
 |master7|master7|138|2020-06-19T18:20:39.|pl|
+|kaakaa|kaakaa|71|2020-06-19T18:20:26Z|ja|
 |jprusch|jprusch|70|2021-06-28T12:00:18.|de|
 |poppfredslund|Martin Popp Fredslund (SektorCERT)|48|2024-03-11T08:34:34.|da|
 |rOt779kVceSgL|R Oyanagi|9|2023-06-16T02:12:43.|ja|
@@ -13,7 +14,6 @@
 |majo|MArtin Johnson|2|2020-06-19T18:19:45Z|sv|
 |nmnj|Nemanja Slavković|2|2024-04-03T11:48:55.|sr|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|wget|wget|0|2020-06-19T18:18:50Z|ro|
 |Chikei|Chikei|0|2020-06-19T18:18:51Z|zh_Hant|
 |cpanato|Carlos Panato|0|2020-06-19T18:18:53Z||
 |thePanz|thePanz|0|2020-06-19T18:18:53Z||
