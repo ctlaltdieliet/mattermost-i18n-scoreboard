@@ -1,4 +1,4 @@
-## Top 20 Contributors Current Week ##
+## Top 20 Contributors Week Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
 |Eleferen|Konstantin|121|2022-10-13T14:04:24Z|ru|
