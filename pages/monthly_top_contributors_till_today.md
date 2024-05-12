@@ -1,8 +1,8 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|kaakaa|kaakaa|79|2020-06-19T18:20:26Z|ja|
 |master7|master7|53|2020-06-19T18:20:39.|pl|
-|kaakaa|kaakaa|21|2020-06-19T18:20:26Z|ja|
 |matthew-w|Matthew Williams|21|2021-03-01T11:40:28.|en_AU|
 |jprusch|jprusch|13|2021-06-28T12:00:18.|de|
 |ctlaltdieliet|Tom De Moor|8|2020-06-19T16:30:47Z|nl|
