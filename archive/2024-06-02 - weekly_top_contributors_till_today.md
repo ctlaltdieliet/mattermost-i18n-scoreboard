@@ -1,4 +1,4 @@
-## Top 20 Contributors Current Week ##
+## Top 20 Contributors Week Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
 |mojahani|Mo Jahani|136|2024-05-22T16:50:54.|fa|
