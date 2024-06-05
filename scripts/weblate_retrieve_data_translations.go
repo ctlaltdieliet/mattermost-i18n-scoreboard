@@ -191,8 +191,8 @@ func readWeblateStatsTranslations(urlRequest string) map[string]languageStats {
 }
 
 func fetchTranslations() {
-	//var statsTranslations map[string]languageStats = readWeblateStatsTranslations("https://translate.mattermost.com/api/translations/")
-	//writeToFileTranslations(statsTranslations)
+	var statsTranslations map[string]languageStats = readWeblateStatsTranslations("https://translate.mattermost.com/api/translations/")
+	writeToFileTranslations(statsTranslations)
 	year, month, day := time.Now().Date()
 	fromDate := fmt.Sprintf("%d-%d-%d", year, month, day)
 	createPageTranslations("Current state of translations", "percentage", fromDate, fromDate)
