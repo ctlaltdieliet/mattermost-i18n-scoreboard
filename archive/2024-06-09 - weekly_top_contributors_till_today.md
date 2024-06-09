@@ -1,4 +1,4 @@
-## Top 20 Contributors Current Week ##
+## Top 20 Contributors Week Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
 |master7|master7|57|2020-06-19T18:20:39.|pl|
