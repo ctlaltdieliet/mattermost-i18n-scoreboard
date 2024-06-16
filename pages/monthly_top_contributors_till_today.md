@@ -1,6 +1,7 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|frankps|Frank Paul Silye|319|2024-06-15T17:49:35.|nb_NO|
 |master7|master7|121|2020-06-19T18:20:39.|pl|
 |mojahani|Mo Jahani|83|2024-05-22T16:50:54.|fa|
 |kayazeren|Kaya Zeren|57|2020-06-19T07:05:24Z|tr|
@@ -13,7 +14,6 @@
 |Boruus|boristrbrt|2|2024-06-10T17:55:32.||
 |maruTA-bis5|maruTA-bis5|1|2020-06-19T18:19:04Z||
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|wget|wget|0|2020-06-19T18:18:50Z|ro|
 |Chikei|Chikei|0|2020-06-19T18:18:51Z|zh_Hant|
 |cpanato|Carlos Panato|0|2020-06-19T18:18:53Z||
 |thePanz|thePanz|0|2020-06-19T18:18:53Z||
