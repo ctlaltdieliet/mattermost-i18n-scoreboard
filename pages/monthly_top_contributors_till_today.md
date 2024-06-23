@@ -1,9 +1,10 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|frankps|Frank Paul Silye|1612|2024-06-15T17:49:35.|nb_NO|
+|frankps|Frank Paul Silye|1613|2024-06-15T17:49:35.|nb_NO|
 |zenocode-org|Zenocode|165|2024-06-16T22:27:50.|fr|
 |master7|master7|163|2020-06-19T18:20:39.|pl|
+|ThrRip|ThrRip|86|2023-05-13T21:46:16.|zh_Hans|
 |mojahani|Mo Jahani|83|2024-05-22T16:50:54.|fa|
 |ctlaltdieliet|Tom De Moor|64|2020-06-19T16:30:47Z|nl|
 |kayazeren|Kaya Zeren|57|2020-06-19T07:05:24Z|tr|
@@ -18,6 +19,5 @@
 |Boruus|boristrbrt|2|2024-06-10T17:55:32.||
 |maruTA-bis5|maruTA-bis5|1|2020-06-19T18:19:04Z||
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|hhhhugi|hhhhugi|0|2020-06-19T18:18:56.||
 |enahum|Elias  Nahum|0|2020-06-19T18:18:56Z|es|
 |ruza|ruza|0|2020-06-19T18:18:57.||
