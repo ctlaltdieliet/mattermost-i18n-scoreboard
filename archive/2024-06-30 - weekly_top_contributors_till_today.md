@@ -1,4 +1,4 @@
-## Top 20 Contributors Current Week ##
+## Top 20 Contributors Week Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
 |homerCOD|homerCOD|26|2022-10-29T07:52:53.|sr|
