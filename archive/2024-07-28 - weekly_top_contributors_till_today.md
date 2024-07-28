@@ -1,4 +1,4 @@
-## Top 20 Contributors Current Week ##
+## Top 20 Contributors Week Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
 |poppfredslund|Martin Popp Fredslund (SektorCERT)|157|2024-03-11T08:34:34.|da|
