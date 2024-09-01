@@ -1,23 +1,23 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|frankps|Frank Paul Silye|542|2024-06-15T17:49:35.|nb_NO|
-|ja49619|ja49619|503|2024-08-16T07:00:21.||
-|andreabia|Andrea|428|2024-07-24T12:31:47.|it|
-|ThrRip|ThrRip|340|2023-05-13T21:46:16.|zh_Hans|
-|majo|MArtin Johnson|307|2020-06-19T18:19:45Z|sv|
-|ctlaltdieliet|Tom De Moor|170|2020-06-19T16:30:47Z|nl|
-|jprusch|jprusch|156|2021-06-28T12:00:18.|de|
-|master7|master7|90|2020-06-19T18:20:39.|pl|
-|matthew-w|Matthew Williams|90|2021-03-01T11:40:28.|en_AU|
-|Eleferen|Konstantin|81|2022-10-13T14:04:24Z|ru|
-|ovrheat|Nik|65|2024-06-16T00:11:45.||
-|kaakaa|kaakaa|41|2020-06-19T18:20:26Z|ja|
-|imanmagomedov.said|Said Imanmagomedov|17|2024-07-15T10:32:56.||
-|petersauvignon|Peter S|7|2024-08-13T10:23:34.|cs|
-|NCPSNetworks|NCPSNetworks|4|2024-08-21T03:37:05.||
-|tnir|Takuya N|1|2024-07-23T20:19:19.||
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
+|elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z||
+|controlaltdieliet|Tom De Moor|0|2020-06-18T18:35:25Z||
+|kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|tr|
+|ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|nl|
+|bjolud|bjolud|0|2020-06-19T18:17:57.||
+|danninov|danninov|0|2020-06-19T18:18:00.||
+|Tornoz|Tornoz|0|2020-06-19T18:18:16.||
+|majdy|majdy|0|2020-06-19T18:18:21.||
+|avasconcelos114|avasconcelos114|0|2020-06-19T18:18:27Z||
+|babu|babu|0|2020-06-19T18:18:37.||
+|gb|gb|0|2020-06-19T18:18:43.||
+|wget|wget|0|2020-06-19T18:18:50Z|ro|
+|Chikei|Chikei|0|2020-06-19T18:18:51Z|zh_Hant|
+|cpanato|Carlos Panato|0|2020-06-19T18:18:53Z||
+|thePanz|thePanz|0|2020-06-19T18:18:53Z||
+|jasonblais|jasonblais|0|2020-06-19T18:18:54Z||
 |hhhhugi|hhhhugi|0|2020-06-19T18:18:56.||
 |enahum|Elias  Nahum|0|2020-06-19T18:18:56Z|es|
 |ruza|ruza|0|2020-06-19T18:18:57.||
