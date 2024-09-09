@@ -1,18 +1,18 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|kayazeren|Kaya Zeren|290|2020-06-19T07:05:24Z|tr|
+|Morgan_svk|Martin Mičuda|255|2024-09-09T07:32:18.|cs|
 |ja49619|ja49619|185|2024-08-16T07:00:21.||
-|kayazeren|Kaya Zeren|165|2020-06-19T07:05:24Z|tr|
 |azistellar|Abdulaziz|144|2023-07-05T14:09:56.|ar|
-|master7|master7|69|2020-06-19T18:20:39.|pl|
+|master7|master7|81|2020-06-19T18:20:39.|pl|
+|ctlaltdieliet|Tom De Moor|56|2020-06-19T16:30:47Z|nl|
+|frankps|Frank Paul Silye|48|2024-06-15T17:49:35.|nb_NO|
 |jprusch|jprusch|27|2021-06-28T12:00:18.|de|
-|frankps|Frank Paul Silye|23|2024-06-15T17:49:35.|nb_NO|
 |milotype|Milo Ivir|6|2021-10-30T10:27:42.|hr|
 |Eleferen|Konstantin|4|2022-10-13T14:04:24Z|ru|
 |nekodayo2222|Katsunori Kuroda|1|2024-09-03T13:06:46Z||
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|babu|babu|0|2020-06-19T18:18:37.||
-|gb|gb|0|2020-06-19T18:18:43.||
 |wget|wget|0|2020-06-19T18:18:50Z|ro|
 |Chikei|Chikei|0|2020-06-19T18:18:51Z|zh_Hant|
 |cpanato|Carlos Panato|0|2020-06-19T18:18:53Z||
