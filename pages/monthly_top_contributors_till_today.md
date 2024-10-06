@@ -6,11 +6,11 @@
 |master7|master7|104|2020-06-19T18:20:39.|pl|
 |sedivst|Stepan Sedivy|49|2024-10-03T17:54:39.|cs|
 |algeorgiadis|Alexander Georgiadis|44|2024-09-28T08:31:48.|el|
+|majo|MArtin Johnson|32|2020-06-19T18:19:45Z|sv|
 |ThrRip|ThrRip|16|2023-05-13T21:46:16.|zh_Hans|
 |ctlaltdieliet|Tom De Moor|14|2020-06-19T16:30:47Z|nl|
 |ja49619|ja49619|7|2024-08-16T07:00:21.||
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|avasconcelos114|avasconcelos114|0|2020-06-19T18:18:27Z||
 |babu|babu|0|2020-06-19T18:18:37.||
 |gb|gb|0|2020-06-19T18:18:43.||
 |wget|wget|0|2020-06-19T18:18:50Z|ro|
