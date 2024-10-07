@@ -1,16 +1,16 @@
-## Top 20 Contributors Week Till Today ##
+## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|Morgan_svk|Martin Mičuda|145|2024-09-09T07:32:18.|cs|
+|frankps|Frank Paul Silye|119|2024-06-15T17:49:35.|nb_NO|
+|master7|master7|104|2020-06-19T18:20:39.|pl|
+|sedivst|Stepan Sedivy|49|2024-10-03T17:54:39.|cs|
+|algeorgiadis|Alexander Georgiadis|44|2024-09-28T08:31:48.|el|
+|majo|MArtin Johnson|32|2020-06-19T18:19:45Z|sv|
+|ThrRip|ThrRip|16|2023-05-13T21:46:16.|zh_Hans|
+|ctlaltdieliet|Tom De Moor|14|2020-06-19T16:30:47Z|nl|
+|ja49619|ja49619|7|2024-08-16T07:00:21.||
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z||
-|controlaltdieliet|Tom De Moor|0|2020-06-18T18:35:25Z||
-|kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|tr|
-|ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|nl|
-|bjolud|bjolud|0|2020-06-19T18:17:57.||
-|danninov|danninov|0|2020-06-19T18:18:00.||
-|Tornoz|Tornoz|0|2020-06-19T18:18:16.||
-|majdy|majdy|0|2020-06-19T18:18:21.||
-|avasconcelos114|avasconcelos114|0|2020-06-19T18:18:27Z||
 |babu|babu|0|2020-06-19T18:18:37.||
 |gb|gb|0|2020-06-19T18:18:43.||
 |wget|wget|0|2020-06-19T18:18:50Z|ro|
