@@ -2,7 +2,7 @@
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
 |moda-l10n|Moda / L10n Project|6603|2024-10-08T11:42:13Z|zh_Hant|
-|yanyiyi|Yanyiyi|492|2024-05-03T05:57:52Z|zh_Hant|
+|yanyiyi|Yanyiyi|853|2024-05-03T05:57:52Z|zh_Hant|
 |master7|master7|314|2020-06-19T18:20:39.|pl|
 |frankps|Frank Paul Silye|163|2024-06-15T17:49:35.|nb_NO|
 |Morgan_svk|Martin Mičuda|157|2024-09-09T07:32:18.|cs|
