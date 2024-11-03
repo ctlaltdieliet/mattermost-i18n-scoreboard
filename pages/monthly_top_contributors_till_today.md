@@ -1,12 +1,12 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|nikolaiz|Nikolai Zahariev|291|2020-07-06T05:21:46Z|bg|
+|nikolaiz|Nikolai Zahariev|448|2020-07-06T05:21:46Z|bg|
+|Reinkard|Serhii Khomiuk|252|2024-10-19T17:29:39.||
 |ThrRip|ThrRip|238|2023-05-13T21:46:16.|zh_Hans|
-|frankps|Frank Paul Silye|146|2024-06-15T17:49:35.|nb_NO|
+|frankps|Frank Paul Silye|190|2024-06-15T17:49:35.|nb_NO|
+|majo|MArtin Johnson|11|2020-06-19T18:19:45Z|sv|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|nl|
-|bjolud|bjolud|0|2020-06-19T18:17:57.||
 |danninov|danninov|0|2020-06-19T18:18:00.||
 |Tornoz|Tornoz|0|2020-06-19T18:18:16.||
 |majdy|majdy|0|2020-06-19T18:18:21.||
