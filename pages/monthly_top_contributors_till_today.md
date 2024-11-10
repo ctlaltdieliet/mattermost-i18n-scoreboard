@@ -1,9 +1,9 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|Reinkard|Serhii Khomiuk|1785|2024-10-19T17:29:39.|uk|
+|Reinkard|Serhii Khomiuk|1787|2024-10-19T17:29:39.|uk|
 |frankps|Frank Paul Silye|525|2024-06-15T17:49:35.|nb_NO|
-|nikolaiz|Nikolai Zahariev|453|2020-07-06T05:21:46Z|bg|
+|nikolaiz|Nikolai Zahariev|494|2020-07-06T05:21:46Z|bg|
 |Morgan_svk|Martin Mičuda|453|2024-09-09T07:32:18.|cs|
 |matthew-w|Matthew Williams|328|2021-03-01T11:40:28.|en_AU|
 |kaakaa|kaakaa|311|2020-06-19T18:20:26Z|ja|
