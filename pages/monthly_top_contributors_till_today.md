@@ -1,7 +1,7 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|Reinkard|Serhii Khomiuk|5178|2024-10-19T17:29:39.|uk|
+|Reinkard|Serhii Khomiuk|5677|2024-10-19T17:29:39.|uk|
 |Morgan_svk|Martin Mičuda|959|2024-09-09T07:32:18.|cs|
 |frankps|Frank Paul Silye|734|2024-06-15T17:49:35.|nb_NO|
 |nikolaiz|Nikolai Zahariev|557|2020-07-06T05:21:46Z|bg|
@@ -13,8 +13,8 @@
 |ctlaltdieliet|Tom De Moor|185|2020-06-19T16:30:47Z|nl|
 |yanyiyi|Yanyiyi|181|2024-05-03T05:57:52Z|zh_Hant|
 |jprusch|jprusch|165|2021-06-28T12:00:18.|de|
+|akbarkz|Akbar Abdrakhmanov|108|2023-10-17T14:38:22.|kk|
 |andreabia|Andrea|52|2024-07-24T12:31:47.|it|
-|akbarkz|Akbar Abdrakhmanov|47|2023-10-17T14:38:22.|kk|
 |majo|MArtin Johnson|26|2020-06-19T18:19:45Z|sv|
 |potatogim|Jihyeon Gim|22|2020-06-19T18:18:58.|ko|
 |Eleferen|Konstantin|18|2022-10-13T14:04:24Z|ru|
