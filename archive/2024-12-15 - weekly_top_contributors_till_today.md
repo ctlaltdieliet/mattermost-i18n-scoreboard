@@ -1,4 +1,4 @@
-## Top 20 Contributors Current Week ##
+## Top 20 Contributors Week Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
 |Reinkard|Serhii Khomiuk|620|2024-10-19T17:29:39.|uk|

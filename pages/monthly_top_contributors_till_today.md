@@ -20,4 +20,4 @@
 |and-ri|Andrew|6|2024-11-27T19:58:18.||
 |minchae.lee|Minchae Lee|5|2024-11-26T01:06:33.|ko|
 |nbruneau71250|nbruneau71250|4|2024-06-13T15:07:39.||
-|RenaudK|Renaud Keradec|2|2024-07-26T11:25:09.||
+|creeper-0910|お餅のCreeeper|2|2023-01-22T23:18:29.|ja|
