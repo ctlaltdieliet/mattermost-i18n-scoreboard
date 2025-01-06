@@ -1,9 +1,9 @@
-## Top 20 Contributors Week Till Today ##
+## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|master7|master7|20|2020-06-19T18:20:39.|pl|
+|Reinkard|Serhii Khomiuk|9|2024-10-19T17:29:39.|uk|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z||
-|controlaltdieliet|Tom De Moor|0|2020-06-18T18:35:25Z||
 |kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|tr|
 |ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|nl|
 |bjolud|bjolud|0|2020-06-19T18:17:57.||
