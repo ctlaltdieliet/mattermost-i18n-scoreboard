@@ -1,10 +1,10 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|kayazeren|Kaya Zeren|59|2020-06-19T07:05:24Z|tr|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z||
 |controlaltdieliet|Tom De Moor|0|2020-06-18T18:35:25Z||
-|kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|tr|
+|elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z||
 |ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|nl|
 |bjolud|bjolud|0|2020-06-19T18:17:57.||
 |danninov|danninov|0|2020-06-19T18:18:00.||
