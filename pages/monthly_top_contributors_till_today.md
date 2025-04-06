@@ -1,7 +1,7 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|frankps|Frank Paul Silye|213|2024-06-15T17:49:35.|nb_NO|
+|frankps|Frank Paul Silye|303|2024-06-15T17:49:35.|nb_NO|
 |bshumylo|Bohdan|31|2025-01-05T23:41:01.|uk|
 |master7|master7|30|2020-06-19T18:20:39.|pl|
 |bndn|Benjamin Danon|29|2024-05-15T08:40:35.|fr|
