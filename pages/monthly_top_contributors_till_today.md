@@ -1,7 +1,7 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|mansil|Manuela Silva|161|2024-04-28T15:52:39.|pt|
+|mansil|Manuela Silva|576|2024-04-28T15:52:39.|pt|
 |jprusch|jprusch|140|2021-06-28T12:00:18.|de|
 |ctlaltdieliet|Tom De Moor|137|2020-06-19T16:30:47Z|nl|
 |Morgan_svk|Martin Mičuda|108|2024-09-09T07:32:18.|cs|
