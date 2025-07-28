@@ -87,6 +87,7 @@ func fetchAllUsers(urlRequest string) []generalUserData {
 			}
 		}
 	}
+	fmt.Println(weblateusers)
 	return weblateusers
 }
 

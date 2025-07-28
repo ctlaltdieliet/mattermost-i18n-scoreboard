@@ -85,6 +85,7 @@ func createStatsTranslators(fromdate string, tilldate string) []translator {
 	} else {
 		log.Fatal("Error parsing one of the dates " + tilldate + " " + tilldate)
 	}
+	fmt.Println(translators)
 	return translators
 }
 
