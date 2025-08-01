@@ -6,8 +6,8 @@
 |mansil|Manuela Silva|2754|2024-04-28T15:52:39.|pt|
 |ctlaltdieliet|Tom De Moor|1860|2020-06-19T16:30:47Z|nl|
 |bshumylo|Bohdan|1834|2025-01-05T23:41:01.|uk|
-|master7|master7|1618|2020-06-19T18:20:39.|pl|
-|jprusch|jprusch|1396|2021-06-28T12:00:18.|de|
+|master7|master7|1621|2020-06-19T18:20:39.|pl|
+|jprusch|jprusch|1401|2021-06-28T12:00:18.|de|
 |ThrRip|ThrRip|1338|2023-05-13T21:46:16.|zh_Hans|
 |kaakaa|kaakaa|1271|2020-06-19T18:20:26Z|ja|
 |Ricky-Tigg|Ricky Tigg|1246|2025-02-21T08:35:56.|fi|

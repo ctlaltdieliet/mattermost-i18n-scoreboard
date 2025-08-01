@@ -2,8 +2,8 @@
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
 |mansil|Manuela Silva|58|2024-04-28T15:52:39.|pt|
-|jprusch|jprusch|49|2021-06-28T12:00:18.|de|
-|master7|master7|31|2020-06-19T18:20:39.|pl|
+|jprusch|jprusch|54|2021-06-28T12:00:18.|de|
+|master7|master7|34|2020-06-19T18:20:39.|pl|
 |tnir|Takuya N|5|2024-07-23T20:19:19.|ja|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
 |danninov|danninov|0|2020-06-19T18:18:00.||
