@@ -9,8 +9,8 @@
 |jprusch|jprusch|52|2021-06-28T12:00:18.|de|
 |electronicmilk|electronicmilk|34|2025-08-02T10:12:22.|da|
 |frankps|Frank Paul Silye|24|2024-06-15T17:49:35.|nb_NO|
+|mansil|Manuela Silva|5|2024-04-28T15:52:39.|pt|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|babu|babu|0|2020-06-19T18:18:37.||
 |gb|gb|0|2020-06-19T18:18:43.||
 |wget|wget|0|2020-06-19T18:18:50Z|ro|
 |Chikei|Chikei|0|2020-06-19T18:18:51Z|zh_Hant|
