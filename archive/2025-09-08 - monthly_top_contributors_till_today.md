@@ -5,8 +5,8 @@
 |avasconcelos114|avasconcelos114|238|2020-06-19T18:18:27Z|ko|
 |ctlaltdieliet|Tom De Moor|218|2020-06-19T16:30:47Z|nl|
 |Sharuru|Sharuru|127|2020-06-19T18:20:22.|zh_Hans|
-|master7|master7|80|2020-06-19T18:20:39.|pl|
-|jprusch|jprusch|66|2021-06-28T12:00:18.|de|
+|jprusch|jprusch|104|2021-06-28T12:00:18.|de|
+|master7|master7|102|2020-06-19T18:20:39.|pl|
 |sayzard|Keonsoon Hwang|29|2025-03-26T05:02:18.||
 |bshumylo|Bohdan|15|2025-01-05T23:41:01.||
 |majo|MArtin Johnson|15|2020-06-19T18:19:45Z|sv|
