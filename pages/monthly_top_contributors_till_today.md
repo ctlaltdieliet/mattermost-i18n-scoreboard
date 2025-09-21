@@ -1,9 +1,9 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|kayazeren|Kaya Zeren|1163|2020-06-19T07:05:24Z|tr|
 |mansil|Manuela Silva|616|2024-04-28T15:52:39.|pt|
 |ctlaltdieliet|Tom De Moor|470|2020-06-19T16:30:47Z|nl|
-|kayazeren|Kaya Zeren|374|2020-06-19T07:05:24Z|tr|
 |avasconcelos114|avasconcelos114|339|2020-06-19T18:18:27Z|ko|
 |Sharuru|Sharuru|231|2020-06-19T18:20:22.|zh_Hans|
 |master7|master7|227|2020-06-19T18:20:39.|pl|
