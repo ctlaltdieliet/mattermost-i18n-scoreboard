@@ -1,7 +1,7 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|kayazeren|Kaya Zeren|3425|2020-06-19T07:05:24Z|tr|
+|kayazeren|Kaya Zeren|3642|2020-06-19T07:05:24Z|tr|
 |guenjun|"GJ" Guenjun Yoo|687|2023-06-22T06:14:19Z|ko|
 |mansil|Manuela Silva|616|2024-04-28T15:52:39.|pt|
 |ctlaltdieliet|Tom De Moor|525|2020-06-19T16:30:47Z|nl|
@@ -11,7 +11,7 @@
 |Sharuru|Sharuru|231|2020-06-19T18:20:22.|zh_Hans|
 |jprusch|jprusch|214|2021-06-28T12:00:18.|de|
 |vpecinka|Vlastimil Pecinka|166|2020-12-12T20:00:02.|cs|
-|frankps|Frank Paul Silye|61|2024-06-15T17:49:35.|nb_NO|
+|frankps|Frank Paul Silye|104|2024-06-15T17:49:35.|nb_NO|
 |tnir|Takuya N|50|2024-07-23T20:19:19.|ja|
 |majo|MArtin Johnson|33|2020-06-19T18:19:45Z|sv|
 |sayzard|Keonsoon Hwang|29|2025-03-26T05:02:18.||
