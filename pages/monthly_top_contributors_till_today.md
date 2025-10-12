@@ -2,12 +2,12 @@
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
 |vpecinka|Vlastimil Pecinka|180|2020-12-12T20:00:02.|cs|
+|frankps|Frank Paul Silye|162|2024-06-15T17:49:35.|nb_NO|
 |master7|master7|147|2020-06-19T18:20:39.|pl|
 |kayazeren|Kaya Zeren|146|2020-06-19T07:05:24Z|tr|
 |homerCOD|homerCOD|136|2022-10-29T07:52:53.|sr|
 |hereje|Angel Mendez Cano|122|2022-10-18T01:54:03.|es|
 |polyacedev|Subhi Salman|107|2025-10-08T09:15:56.|ar|
-|frankps|Frank Paul Silye|107|2024-06-15T17:49:35.|nb_NO|
 |ctlaltdieliet|Tom De Moor|104|2020-06-19T16:30:47Z|nl|
 |tnir|Takuya N|78|2024-07-23T20:19:19.|ja|
 |Sharuru|Sharuru|59|2020-06-19T18:20:22.|zh_Hans|
