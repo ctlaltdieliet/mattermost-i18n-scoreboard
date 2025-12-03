@@ -1,23 +1,23 @@
 ## Top 20 Contributors Week Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|ctlaltdieliet|Tom De Moor|65361|2020-06-19T16:30:47Z|nl|
-|kayazeren|Kaya Zeren|53962|2020-06-19T07:05:24Z|tr|
-|nikolaiz|Nikolai Zahariev|32185|2020-07-06T05:21:46Z|bg|
-|elisabeth.kulzer|Elisabeth Kulzer|26208|2020-06-11T09:12:38Z||
-|majo|MArtin Johnson|25162|2020-06-19T18:19:45Z|sv|
-|tsabi|Csaba Tóth|19672|2020-10-03T09:34:39.|hu|
-|matthew-w|Matthew Williams|18529|2021-03-01T11:40:28.|en_AU|
-|mattermostbot|Mattermost Weblate Notify Bot|16793|2020-07-07T09:47:41Z||
-|master7|master7|16705|2020-06-19T18:20:39.|pl|
-|kaakaa|kaakaa|16410|2020-06-19T18:20:26Z|ja|
-|en_AU@controlaltdieliet.be|Matthew Williams|14759|2021-03-23T13:45:34.||
-|linkvn|linkvn|13758|2023-06-07T09:42:36.|vi|
-|jprusch|jprusch|13063|2021-06-28T12:00:18.|de|
-|Reinkard|Serhii Khomiuk|12243|2024-10-19T17:29:39.|uk|
-|vadim.asadchi|Vadim Asadchi|9763|2021-08-30T16:19:33.||
-|frankps|Frank Paul Silye|9548|2024-06-15T17:49:35.|nb_NO|
-|ThrRip|ThrRip|8922|2023-05-13T21:46:16.|zh_Hans|
-|naderm11|naderm11|8842|2021-06-10T14:22:00.||
-|flynbit|Alexey Napalkov|8595|2020-06-19T18:19:45Z|ru|
-|Morgan_svk|Martin Mičuda|8127|2024-09-09T07:32:18.|cs|
+|ctlaltdieliet|Tom De Moor|12489|2020-06-19T16:30:47Z|nl|
+|jprusch|jprusch|312|2021-06-28T12:00:18.|de|
+|master7|master7|270|2020-06-19T18:20:39.|pl|
+|mansil|Manuela Silva|266|2024-04-28T15:52:39.|pt|
+|guenjun|"GJ" Guenjun Yoo|220|2023-06-22T06:14:19Z|ko|
+|Sharuru|Sharuru|218|2020-06-19T18:20:22.|zh_Hans|
+|avasconcelos114|avasconcelos114|213|2020-06-19T18:18:27Z|ko|
+|tsakmas|tsakmas|186|2025-11-06T11:57:41.|el|
+|iamleson98|Son Le|116|2025-06-21T00:34:52.|vi|
+|majo|MArtin Johnson|103|2020-06-19T18:19:45Z|sv|
+|frankps|Frank Paul Silye|98|2024-06-15T17:49:35.|nb_NO|
+|KuSh|Nicolas Le Cam|87|2025-11-11T00:29:22.|fr|
+|Morgan_svk|Martin Mičuda|67|2024-09-09T07:32:18.|cs|
+|kayazeren|Kaya Zeren|62|2020-06-19T07:05:24Z|tr|
+|efemonge|Fabián Monge|58|2025-11-26T20:49:59.|es|
+|wooki-00|wooki-00|38|2025-10-17T02:47:28.||
+|kaakaa|kaakaa|17|2020-06-19T18:20:26Z|ja|
+|Reinkard|Serhii Khomiuk|13|2024-10-19T17:29:39.|uk|
+|TimTin|Tim|12|2025-11-28T13:04:35.||
+|evituzas|evituzas|11|2025-04-08T12:33:17.|lt|
