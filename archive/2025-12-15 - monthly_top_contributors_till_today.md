@@ -1,9 +1,9 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|ctlaltdieliet|Tom De Moor|12501|2020-06-19T16:30:47Z|nl|
+|ctlaltdieliet|Tom De Moor|12552|2020-06-19T16:30:47Z|nl|
 |jprusch|jprusch|468|2021-06-28T12:00:18.|de|
-|master7|master7|442|2020-06-19T18:20:39.|pl|
+|master7|master7|453|2020-06-19T18:20:39.|pl|
 |mansil|Manuela Silva|268|2024-04-28T15:52:39.|pt|
 |guenjun|"GJ" Guenjun Yoo|220|2023-06-22T06:14:19Z|ko|
 |Sharuru|Sharuru|218|2020-06-19T18:20:22.|zh_Hans|
