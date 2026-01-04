@@ -1,10 +1,14 @@
-## Top 20 Contributors From Beginning Month Till Today ##
+## Top 20 Contributors Week Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|anonymous|Anonymous|0|2020-06-10T18:34:14.||
-|elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z||
-|kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|tr|
-|ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|nl|
+|vimobe|Vimobe|126|2025-12-30T21:53:10.|id|
+|master7|master7|66|2020-06-19T18:20:39.|pl|
+|jprusch|jprusch|52|2021-06-28T12:00:18.|de|
+|ctlaltdieliet|Tom De Moor|5|2020-06-19T16:30:47Z|nl|
+|majo|MArtin Johnson|5|2020-06-19T18:19:45Z|sv|
+|Umeaboy|Kristoffer Grundström|1|2025-12-04T14:14:25.|sv|
+|david.mach@mdsystem.cz|David Mach|0|2023-01-22T08:51:32.||
+|kamalboutera||0|2023-12-05T07:23:47.||
 |bjolud|bjolud|0|2020-06-19T18:17:57.||
 |danninov|danninov|0|2020-06-19T18:18:00.||
 |Tornoz|Tornoz|0|2020-06-19T18:18:16.||
@@ -17,7 +21,3 @@
 |cpanato|Carlos Panato|0|2020-06-19T18:18:53Z||
 |thePanz|thePanz|0|2020-06-19T18:18:53Z||
 |jasonblais|jasonblais|0|2020-06-19T18:18:54Z||
-|hhhhugi|hhhhugi|0|2020-06-19T18:18:56.||
-|enahum|Elias  Nahum|0|2020-06-19T18:18:56Z|es|
-|ruza|ruza|0|2020-06-19T18:18:57.||
-|potatogim|Jihyeon Gim|0|2020-06-19T18:18:58.|ko|
