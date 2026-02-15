@@ -15,7 +15,7 @@
 |majo|MArtin Johnson|3|2020-06-19T18:19:45Z|sv|
 |salvatorearianna|Salvatore Arianna|1|2025-11-19T09:40:48.||
 |KazminM|IOMA|0|2023-01-26T11:42:40.|ru|
-|CIOSAI|jy|0|2026-01-10T20:37:51.||
+|lllDez|Artyom Kudryavcev|0|2025-06-17T17:44:38.||
 |wget|wget|0|2020-06-19T18:18:50Z|ro|
 |Chikei|Chikei|0|2020-06-19T18:18:51Z|zh_Hant|
 |cpanato|Carlos Panato|0|2020-06-19T18:18:53Z||
