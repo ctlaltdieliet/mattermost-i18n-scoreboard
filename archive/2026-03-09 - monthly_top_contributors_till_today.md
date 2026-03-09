@@ -1,10 +1,11 @@
-## Top 20 Contributors Week Till Today ##
+## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|master7|master7|121|2020-06-19T18:20:39.|pl|
+|ctlaltdieliet|Tom De Moor|16|2020-06-19T16:30:47Z|nl|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
 |elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z||
 |kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|tr|
-|ctlaltdieliet|Tom De Moor|0|2020-06-19T16:30:47Z|nl|
 |bjolud|bjolud|0|2020-06-19T18:17:57.||
 |danninov|danninov|0|2020-06-19T18:18:00.||
 |Tornoz|Tornoz|0|2020-06-19T18:18:16.||
@@ -20,4 +21,3 @@
 |hhhhugi|hhhhugi|0|2020-06-19T18:18:56.||
 |enahum|Elias  Nahum|0|2020-06-19T18:18:56Z|es|
 |ruza|ruza|0|2020-06-19T18:18:57.||
-|potatogim|Jihyeon Gim|0|2020-06-19T18:18:58.|ko|
