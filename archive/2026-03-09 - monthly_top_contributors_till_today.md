@@ -1,7 +1,7 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
-|master7|master7|121|2020-06-19T18:20:39.|pl|
+|master7|master7|144|2020-06-19T18:20:39.|pl|
 |ctlaltdieliet|Tom De Moor|16|2020-06-19T16:30:47Z|nl|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
 |elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z||
