@@ -1,6 +1,10 @@
-## Top 20 Contributors Week Till Today ##
+## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|master7|master7|128|2020-06-19T18:20:39.|pl|
+|frankps|Frank Paul Silye|64|2024-06-15T17:49:35.|nb_NO|
+|Umeaboy|Kristoffer Grundström|64|2025-12-04T14:14:25.|sv|
+|jprusch|jprusch|10|2021-06-28T12:00:18.|de|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
 |elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z||
 |kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|tr|
@@ -17,7 +21,3 @@
 |cpanato|Carlos Panato|0|2020-06-19T18:18:53Z||
 |thePanz|thePanz|0|2020-06-19T18:18:53Z|it|
 |jasonblais|jasonblais|0|2020-06-19T18:18:54Z||
-|hhhhugi|hhhhugi|0|2020-06-19T18:18:56.||
-|enahum|Elias  Nahum|0|2020-06-19T18:18:56Z|es|
-|ruza|ruza|0|2020-06-19T18:18:57.||
-|potatogim|Jihyeon Gim|0|2020-06-19T18:18:58.|ko|
