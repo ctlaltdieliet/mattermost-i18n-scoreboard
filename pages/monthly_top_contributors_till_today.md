@@ -1,6 +1,7 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|Sharuru|Sharuru|5|2020-06-19T18:20:22.|zh_Hans|
 |anonymous|Anonymous|0|2020-06-10T18:34:14.||
 |elisabeth.kulzer|Elisabeth Kulzer|0|2020-06-11T09:12:38Z||
 |kayazeren|Kaya Zeren|0|2020-06-19T07:05:24Z|tr|
@@ -20,4 +21,3 @@
 |hhhhugi|hhhhugi|0|2020-06-19T18:18:56.||
 |enahum|Elias  Nahum|0|2020-06-19T18:18:56Z|es|
 |ruza|ruza|0|2020-06-19T18:18:57.||
-|potatogim|Jihyeon Gim|0|2020-06-19T18:18:58.|ko|
