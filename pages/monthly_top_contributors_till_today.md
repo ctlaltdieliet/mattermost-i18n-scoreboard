@@ -1,8 +1,8 @@
 ## Top 20 Contributors From Beginning Month Till Today ##
 |Username|Fullname|Translated|DateJoined|Language|
 |--------|--------|----------|----------|-------|
+|Sharuru|Sharuru|693|2020-06-19T18:20:22.|zh_Hans|
 |master7|master7|200|2020-06-19T18:20:39.|pl|
-|Sharuru|Sharuru|166|2020-06-19T18:20:22.|zh_Hans|
 |jprusch|jprusch|138|2021-06-28T12:00:18.|de|
 |ritchierope|ritchierope|105|2026-05-05T15:54:15.|hu|
 |kayazeren|Kaya Zeren|79|2020-06-19T07:05:24Z|tr|
